@@ -17,6 +17,19 @@ python app.py                   # http://127.0.0.1:5000   (set PORT to change)
 
 API: `POST /api/complaints {"text": "..."}`, `GET /api/complaints`, `GET /api/stats`.
 
+## Deploy on Render
+
+This repository includes a Render Blueprint in `render.yaml`.
+
+1. Open [Render](https://render.com), choose **New → Blueprint**, and connect this repository.
+2. Select the `main` branch and apply the Blueprint. Render will install `requirements.txt` and start the app with Gunicorn.
+3. The service uses `/health` for health checks. The trained model is loaded from `models/model.pkl`; its scikit-learn runtime is pinned to **1.8.0** to match the saved model.
+4. SQLite stores submissions under `/var/data/complaints.db`. The Blueprint attaches a 1 GB persistent disk at `/var/data`, so submitted complaints survive deploys and restarts.
+
+**Important:** The Blueprint selects a paid Starter web service because Render persistent disks are available only on paid services. A disk-backed service is limited to one instance, which is why the Gunicorn configuration uses one worker. See [Render persistent disks](https://render.com/docs/disks).
+
+The officer dashboard (`/dashboard`) and complaint APIs are currently unauthenticated. Treat this as a demonstration deployment only; add officer authentication and access controls before using it with real citizens or sensitive complaints.
+
 ## Pipeline and syllabus mapping
 
 | Stage | File / function | Module |
