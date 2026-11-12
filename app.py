@@ -1,149 +1,267 @@
 """Flask app: citizen form, REST API and officer dashboard.
 
-Run:  python app.py        (opens on http://127.0.0.1:5000)
-API:  POST /api/complaints   {"text": "..."}  ->  classification + generated reply (stored in SQLite)
-      GET  /api/complaints   list;  GET /api/stats  aggregate counts
+Run locally: python app.py
+Production: gunicorn app:app
 """
 import os
 import pickle
 import sqlite3
-from datetime import datetime
+from datetime import datetime, timezone
 
 from flask import Flask, g, jsonify, redirect, render_template, request, url_for
 
-from classifier import GrievanceClassifier  # noqa: F401  (needed to unpickle the model)
+from classifier import GrievanceClassifier  # noqa: F401 - required to unpickle the model
 from response_generator import generate_reply, make_ticket_id
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-DB = os.path.join(BASE, "complaints.db")
+# Render's persistent disk should be mounted at /var/data. Locally, keep the DB
+# alongside the source. DB_PATH can override either location.
+DATA_DIR = os.environ.get("DATA_DIR", "/var/data" if os.path.isdir("/var/data") else BASE)
+os.makedirs(DATA_DIR, exist_ok=True)
+DB = os.environ.get("DB_PATH", os.path.join(DATA_DIR, "complaints.db"))
+MODEL_PATH = os.environ.get("MODEL_PATH", os.path.join(BASE, "models", "model.pkl"))
 MAX_LEN = 1000
 
 app = Flask(__name__)
-with open(os.path.join(BASE, "models", "model.pkl"), "rb") as f:
-    MODEL = pickle.load(f)
+app.config["MAX_CONTENT_LENGTH"] = 16 * 1024
+
+
+def load_model():
+    """Load the trained classifier once when the WSGI worker imports the app."""
+    if not os.path.isfile(MODEL_PATH):
+        raise FileNotFoundError(
+            f"Trained model not found at {MODEL_PATH}. "
+            "Ensure models/model.pkl is committed to the repository."
+        )
+    with open(MODEL_PATH, "rb") as model_file:
+        return pickle.load(model_file)
+
+
+MODEL = load_model()
 
 
 def db():
     if "db" not in g:
-        g.db = sqlite3.connect(DB)
+        # A short timeout helps when multiple Gunicorn workers access SQLite.
+        g.db = sqlite3.connect(DB, timeout=30)
         g.db.row_factory = sqlite3.Row
     return g.db
 
 
 @app.teardown_appcontext
-def close_db(_):
-    d = g.pop("db", None)
-    if d:
-        d.close()
+def close_db(_error):
+    connection = g.pop("db", None)
+    if connection is not None:
+        connection.close()
 
 
 def init_db():
-    with sqlite3.connect(DB) as c:
-        c.execute("""CREATE TABLE IF NOT EXISTS complaints(
-            id INTEGER PRIMARY KEY AUTOINCREMENT, ticket TEXT, created TEXT, text TEXT, category TEXT,
-            confidence REAL, urgency TEXT, sentiment TEXT, location TEXT, time_ref TEXT, language TEXT,
-            needs_review INTEGER, reply TEXT, department TEXT, status TEXT DEFAULT 'Open')""")
+    """Create the table and add newer columns to older databases safely."""
+    os.makedirs(os.path.dirname(os.path.abspath(DB)), exist_ok=True)
+    with sqlite3.connect(DB, timeout=30) as connection:
+        connection.execute(
+            """CREATE TABLE IF NOT EXISTS complaints(
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                ticket TEXT,
+                created TEXT,
+                text TEXT,
+                category TEXT,
+                confidence REAL,
+                urgency TEXT,
+                sentiment TEXT,
+                location TEXT,
+                time_ref TEXT,
+                language TEXT,
+                needs_review INTEGER,
+                reply TEXT,
+                department TEXT,
+                status TEXT DEFAULT 'Open'
+            )"""
+        )
+        existing = {
+            row[1] for row in connection.execute("PRAGMA table_info(complaints)")
+        }
+        # Upgrade databases created by earlier versions without deleting records.
+        if "status" not in existing:
+            connection.execute(
+                "ALTER TABLE complaints ADD COLUMN status TEXT DEFAULT 'Open'"
+            )
+        connection.commit()
 
 
-def process(text):
-    text = (text or "").strip()
-    if not text:
+def process(complaint_text):
+    complaint_text = (complaint_text or "").strip()
+    if not complaint_text:
         raise ValueError("Complaint text is empty.")
-    if len(text) > MAX_LEN:
+    if len(complaint_text) > MAX_LEN:
         raise ValueError(f"Complaint is too long (max {MAX_LEN} characters).")
-    res = MODEL.predict(text)
-    ticket = make_ticket_id(text, res["category"])
-    reply = generate_reply(res, ticket)
-    ent = res["analysis"]["entities"]
+
+    result = MODEL.predict(complaint_text)
+    ticket = make_ticket_id(complaint_text, result["category"])
+    reply = generate_reply(result, ticket)
+    entities = result["analysis"]["entities"]
+
     db().execute(
-        "INSERT INTO complaints(ticket,created,text,category,confidence,urgency,sentiment,location,time_ref,"
-        "language,needs_review,reply,department) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)",
-        (ticket, datetime.now().strftime("%Y-%m-%d %H:%M"), text, res["category"], res["confidence"],
-         res["urgency"], res["sentiment"], ent["location"], ent["time"], res["analysis"]["language_style"],
-         int(res["needs_review"]), reply["text"], reply["department"]))
+        """INSERT INTO complaints(
+            ticket, created, text, category, confidence, urgency, sentiment,
+            location, time_ref, language, needs_review, reply, department
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+        (
+            ticket,
+            datetime.now(timezone.utc).isoformat(timespec="minutes"),
+            complaint_text,
+            result["category"],
+            result["confidence"],
+            result["urgency"],
+            result["sentiment"],
+            entities.get("location"),
+            entities.get("time"),
+            result["analysis"]["language_style"],
+            int(result["needs_review"]),
+            reply["text"],
+            reply["department"],
+        ),
+    )
     db().commit()
-    return ticket, res, reply
+    return ticket, result, reply
 
 
-# ----------------------------------------------------------------------------- pages
+@app.get("/health")
+def health():
+    """Render health-check endpoint."""
+    return jsonify(status="ok"), 200
+
+
 @app.route("/", methods=["GET", "POST"])
 def index():
     result = error = None
-    text = ""
+    complaint_text = ""
     if request.method == "POST":
-        text = request.form.get("text", "")
+        complaint_text = request.form.get("text", "")
         try:
-            ticket, res, reply = process(text)
-            result = {"ticket": ticket, "res": res, "reply": reply}
-        except ValueError as e:
-            error = str(e)
-    return render_template("index.html", result=result, error=error, text=text)
+            ticket, classification, reply = process(complaint_text)
+            result = {"ticket": ticket, "res": classification, "reply": reply}
+        except ValueError as exc:
+            error = str(exc)
+    return render_template(
+        "index.html", result=result, error=error, text=complaint_text
+    )
 
 
-@app.route("/dashboard")
+@app.get("/dashboard")
 def dashboard():
-    cat = request.args.get("category", "")
-    urg = request.args.get("urgency", "")
-    q = "SELECT * FROM complaints WHERE 1=1"
+    category = request.args.get("category", "")
+    urgency = request.args.get("urgency", "")
+    query = "SELECT * FROM complaints WHERE 1=1"
     args = []
-    if cat:
-        q += " AND category=?"; args.append(cat)
-    if urg:
-        q += " AND urgency=?"; args.append(urg)
-    q += " ORDER BY CASE urgency WHEN 'High' THEN 0 WHEN 'Medium' THEN 1 ELSE 2 END, id DESC LIMIT 200"
-    rows = db().execute(q, args).fetchall()
-    stats = _stats()
-    return render_template("dashboard.html", rows=rows, stats=stats, cat=cat, urg=urg)
+    if category:
+        query += " AND category=?"
+        args.append(category)
+    if urgency:
+        query += " AND urgency=?"
+        args.append(urgency)
+    query += (
+        " ORDER BY CASE urgency WHEN 'High' THEN 0 "
+        "WHEN 'Medium' THEN 1 ELSE 2 END, id DESC LIMIT 200"
+    )
+    rows = db().execute(query, args).fetchall()
+    return render_template(
+        "dashboard.html",
+        rows=rows,
+        stats=_stats(),
+        cat=category,
+        urg=urgency,
+    )
 
 
-@app.route("/resolve/<int:cid>", methods=["POST"])
+@app.post("/resolve/<int:cid>")
 def resolve(cid):
-    db().execute("UPDATE complaints SET status='Resolved' WHERE id=?", (cid,))
+    db().execute(
+        "UPDATE complaints SET status='Resolved' WHERE id=?", (cid,)
+    )
     db().commit()
     return redirect(request.referrer or url_for("dashboard"))
 
 
-# ----------------------------------------------------------------------------- API
 def _stats():
-    d = db()
-    one = lambda sql: [dict(r) for r in d.execute(sql).fetchall()]
+    connection = db()
+
+    def rows_as_dicts(sql):
+        return [dict(row) for row in connection.execute(sql).fetchall()]
+
     return {
-        "total": d.execute("SELECT COUNT(*) FROM complaints").fetchone()[0],
-        "open": d.execute("SELECT COUNT(*) FROM complaints WHERE status='Open'").fetchone()[0],
-        "review": d.execute("SELECT COUNT(*) FROM complaints WHERE needs_review=1 AND status='Open'").fetchone()[0],
-        "by_category": one("SELECT category k, COUNT(*) n FROM complaints GROUP BY category ORDER BY n DESC"),
-        "by_urgency": one("SELECT urgency k, COUNT(*) n FROM complaints GROUP BY urgency"),
-        "by_location": one("SELECT location k, COUNT(*) n FROM complaints WHERE location IS NOT NULL "
-                           "GROUP BY location ORDER BY n DESC LIMIT 8"),
+        "total": connection.execute(
+            "SELECT COUNT(*) FROM complaints"
+        ).fetchone()[0],
+        "open": connection.execute(
+            "SELECT COUNT(*) FROM complaints WHERE status='Open'"
+        ).fetchone()[0],
+        "review": connection.execute(
+            "SELECT COUNT(*) FROM complaints "
+            "WHERE needs_review=1 AND status='Open'"
+        ).fetchone()[0],
+        "by_category": rows_as_dicts(
+            "SELECT category k, COUNT(*) n FROM complaints "
+            "GROUP BY category ORDER BY n DESC"
+        ),
+        "by_urgency": rows_as_dicts(
+            "SELECT urgency k, COUNT(*) n FROM complaints "
+            "GROUP BY urgency"
+        ),
+        "by_location": rows_as_dicts(
+            "SELECT location k, COUNT(*) n FROM complaints "
+            "WHERE location IS NOT NULL GROUP BY location "
+            "ORDER BY n DESC LIMIT 8"
+        ),
     }
 
 
-@app.route("/api/complaints", methods=["POST"])
-def api_post():
-    data = request.get_json(silent=True) or {}
-    try:
-        ticket, res, reply = process(data.get("text"))
-    except ValueError as e:
-        return jsonify(error=str(e)), 400
-    a = res["analysis"]
-    return jsonify(ticket=ticket, category=res["category"], confidence=res["confidence"],
-                   probabilities=res["probabilities"], urgency=res["urgency"], sentiment=res["sentiment"],
-                   needs_review=res["needs_review"], entities=a["entities"], language=a["language_style"],
-                   senses=a["senses"], reply=reply["text"], department=reply["department"]), 201
+@app.route("/api/complaints", methods=["GET", "POST"])
+def api_complaints():
+    if request.method == "POST":
+        data = request.get_json(silent=True)
+        if not isinstance(data, dict):
+            return jsonify(error="Send a JSON object containing 'text'."), 400
+        try:
+            ticket, result, reply = process(data.get("text"))
+        except ValueError as exc:
+            return jsonify(error=str(exc)), 400
+        analysis = result["analysis"]
+        return (
+            jsonify(
+                ticket=ticket,
+                category=result["category"],
+                confidence=result["confidence"],
+                probabilities=result["probabilities"],
+                urgency=result["urgency"],
+                sentiment=result["sentiment"],
+                needs_review=result["needs_review"],
+                entities=analysis["entities"],
+                language=analysis["language_style"],
+                senses=analysis["senses"],
+                reply=reply["text"],
+                department=reply["department"],
+            ),
+            201,
+        )
+
+    rows = db().execute(
+        "SELECT * FROM complaints ORDER BY id DESC LIMIT 100"
+    ).fetchall()
+    return jsonify([dict(row) for row in rows])
 
 
-@app.route("/api/complaints", methods=["GET"])
-def api_list():
-    rows = db().execute("SELECT * FROM complaints ORDER BY id DESC LIMIT 100").fetchall()
-    return jsonify([dict(r) for r in rows])
-
-
-@app.route("/api/stats")
+@app.get("/api/stats")
 def api_stats():
     return jsonify(_stats())
 
 
+# Safe for Gunicorn import and local development.
 init_db()
 
 if __name__ == "__main__":
-    app.run(debug=False, port=int(os.environ.get("PORT", 5000)))
+    app.run(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", "5000")),
+        debug=False,
+    )
