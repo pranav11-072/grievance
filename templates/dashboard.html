@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}Officer dashboard{% endblock %}
+{% block body %}
+<h1>Officer dashboard</h1>
+<p class="mute">High-urgency complaints are listed first. Rows marked "review" had low model confidence and need a human check.</p>
+
+<div class="grid" style="margin-bottom:16px">
+  <div class="card" style="margin:0"><div class="kv">Total</div><div style="font-size:26px;font-weight:700">{{ stats.total }}</div></div>
+  <div class="card" style="margin:0"><div class="kv">Open</div><div style="font-size:26px;font-weight:700">{{ stats.open }}</div></div>
+  <div class="card" style="margin:0"><div class="kv">Needs review</div><div style="font-size:26px;font-weight:700">{{ stats.review }}</div></div>
+</div>
+
+<div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">
+  <div class="card"><h2>By category</h2>
+    {% set mx = (stats.by_category|map(attribute='n')|max) if stats.by_category else 1 %}
+    {% for r in stats.by_category %}<div style="display:flex;justify-content:space-between"><span>{{ r.k }}</span><span class="mute">{{ r.n }}</span></div><div class="bar"><i style="width:{{ r.n/mx*100 }}%"></i></div>{% else %}<span class="mute">No data yet.</span>{% endfor %}
+  </div>
+  <div class="card"><h2>Hot-spot locations</h2>
+    {% set ml = (stats.by_location|map(attribute='n')|max) if stats.by_location else 1 %}
+    {% for r in stats.by_location %}<div style="display:flex;justify-content:space-between"><span>{{ r.k }}</span><span class="mute">{{ r.n }}</span></div><div class="bar"><i style="width:{{ r.n/ml*100 }}%"></i></div>{% else %}<span class="mute">No data yet.</span>{% endfor %}
+  </div>
+</div>
+
+<div class="card">
+  <form method="get" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px">
+    <select name="category" onchange="this.form.submit()" aria-label="Category">
+      <option value="">All categories</option>
+      {% for c in ['Street Lighting','Water Supply','Roads and Potholes','Waste Collection'] %}<option {{ 'selected' if c==cat }}>{{ c }}</option>{% endfor %}
+    </select>
+    <select name="urgency" onchange="this.form.submit()" aria-label="Urgency">
+      <option value="">All urgency</option>
+      {% for u in ['High','Medium','Low'] %}<option {{ 'selected' if u==urg }}>{{ u }}</option>{% endfor %}
+    </select>
+  </form>
+  <div class="tbl"><table>
+    <thead><tr><th>Ticket</th><th>Complaint</th><th>Category</th><th>Urgency</th><th>Location</th><th>Status</th></tr></thead>
+    <tbody>
+    {% for r in rows %}
+      <tr>
+        <td><code>{{ r.ticket }}</code><div class="mute" style="font-size:12px">{{ r.created }}</div></td>
+        <td style="max-width:340px">{{ r.text }}</td>
+        <td>{{ r.category }}<div class="mute" style="font-size:12px">{{ (r.confidence*100)|round|int }}% {% if r.needs_review %}· <b>review</b>{% endif %}</div></td>
+        <td><span class="pill {{ r.urgency }}">{{ r.urgency }}</span></td>
+        <td>{{ r.location or '–' }}<div class="mute" style="font-size:12px">{{ r.time_ref or '' }}</div></td>
+        <td>{% if r.status=='Open' %}<form method="post" action="{{ url_for('resolve', cid=r.id) }}"><button class="ghost">Mark resolved</button></form>{% else %}<span class="mute">Resolved</span>{% endif %}</td>
+      </tr>
+    {% else %}
+      <tr><td colspan="6" class="mute">No complaints yet. Submit one from the home page.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+</div>
+{% endblock %}

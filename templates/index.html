@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block body %}
+<div class="card">
+  <h1>Report a civic issue</h1>
+  <p class="mute">Write in English, Kannada, or a mix (for example, "neeru barthilla"). Your complaint is routed to the right department automatically.</p>
+  {% if error %}<div class="err">{{ error }}</div>{% endif %}
+  <form method="post">
+    <textarea name="text" maxlength="1000" placeholder="Describe the problem, location and how long it has been going on…" required>{{ text }}</textarea>
+    <div class="chips" aria-label="Example complaints">
+      <button type="button" class="chip" data-t="The street light near MG Road has not worked since Monday. Please fix it urgently.">English example</button>
+      <button type="button" class="chip" data-t="Koramangala nalli neeru barthilla kaledha 3 dinagalinda, tumba tondare">Kanglish example</button>
+      <button type="button" class="chip" data-t="Hebbal hattira raste mele dodda gundi ide, bike gale jaarutive">Roads (Kanglish)</button>
+      <button type="button" class="chip" data-t="ಜಯನಗರ ನಲ್ಲಿ ಕಸ ಭಾನುವಾರದಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ">Kannada script</button>
+    </div>
+    <button type="submit">Submit complaint</button>
+  </form>
+</div>
+
+{% if result %}
+{% set r = result.res %}
+<div class="card">
+  <h2>Ticket {{ result.ticket }}</h2>
+  {% if r.needs_review %}<div class="warn">Low confidence ({{ (r.confidence*100)|round|int }}%). This complaint is also queued for a human officer to confirm the department.</div>{% endif %}
+  <div class="grid">
+    <div><div class="kv">Category</div><div>{{ r.category }}</div></div>
+    <div><div class="kv">Urgency</div><div><span class="pill {{ r.urgency }}">{{ r.urgency }}</span></div></div>
+    <div><div class="kv">Sentiment</div><div>{{ r.sentiment }}</div></div>
+    <div><div class="kv">Location</div><div>{{ r.analysis.entities.location or '–' }}</div></div>
+    <div><div class="kv">Since</div><div>{{ r.analysis.entities.time or '–' }}</div></div>
+    <div><div class="kv">Language style</div><div>{{ r.analysis.language_style|replace('_',' ') }}</div></div>
+  </div>
+</div>
+<div class="card">
+  <h2>Automatic reply</h2>
+  <div class="reply">{{ result.reply.text }}</div>
+</div>
+<div class="card">
+  <h2>How the system understood it</h2>
+  {% for c, p in r.probabilities.items()|sort(attribute='1', reverse=True) %}
+    <div style="display:flex;justify-content:space-between"><span>{{ c }}</span><span class="mute">{{ (p*100)|round|int }}%</span></div>
+    <div class="bar"><i style="width:{{ p*100 }}%"></i></div>
+  {% endfor %}
+  <details style="margin-top:14px"><summary>Pipeline output (tokens, POS, chunks)</summary>
+    <pre>Romanized : {{ r.analysis.romanized }}
+Normalised: {{ r.analysis.normalised_tokens|join(' ') }}
+Lemmas    : {{ r.analysis.lemmas|join(' ') }}
+POS       : {% for w,t in r.analysis.pos_tags %}{{ w }}/{{ t }} {% endfor %}
+
+Noun chunks: {{ r.analysis.noun_chunks|join(' | ') }}
+Word senses: {{ r.analysis.senses or '–' }}
+Urgent cues: {{ r.analysis.urgent_cues|join(', ') or '–' }}</pre>
+  </details>
+</div>
+{% endif %}
+<script>
+document.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
+  const t = document.querySelector('textarea'); t.value = b.dataset.t; t.focus();
+}));
+</script>
+{% endblock %}

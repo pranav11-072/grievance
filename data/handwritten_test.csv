@@ -1,0 +1,37 @@
+text,category,urgency,sentiment
+"The lamp on our lane has been out for ten days now and my daughter walks back from tuition in the dark.",Street Lighting,High,Negative
+"Sir the lights on the flyover near Hebbal are all off. Vehicles are speeding in the dark.",Street Lighting,High,Negative
+"Our colony street light keeps blinking all night, kindly get the fitting checked.",Street Lighting,Low,Neutral
+"Yelahanka bus stand area is completely dark after 7pm, no lamps working.",Street Lighting,Medium,Negative
+"ee road nalli kambada light uriyalla, raatri oodaadoke bhaya aagutte, Rajajinagar",Street Lighting,High,Negative
+"Namma beedhi deepa kettu 1 vaara aaytu, JP Nagar. Dayavittu nodi.",Street Lighting,Medium,Neutral
+"Street light timer is faulty, they glow at noon and are off at night near Indiranagar.",Street Lighting,Low,Neutral
+"Tap has run dry in our building at Marathahalli, we have not had a drop since morning.",Water Supply,Medium,Negative
+"The water from the tap smells like sewage and my kids fell sick, please test it immediately.",Water Supply,High,Negative
+"Huge leakage from the underground pipe near Malleshwaram circle, thousands of litres wasted every hour.",Water Supply,Medium,Negative
+"BWSSB bill is fine but the supply timing has changed without informing residents of Kengeri.",Water Supply,Low,Neutral
+"Neeru tumba kadime pressure alli barutte, mahadi mele hogalla, Whitefield",Water Supply,Medium,Neutral
+"Kudiyo neeru hallu hallu aagi baruttide, yaaru kaalji maadtilla, BTM Layout",Water Supply,High,Negative
+"The sump overflowed since the valve is stuck and water is flowing on to the road in Hennur.",Water Supply,Medium,Neutral
+"A tanker is needed urgently, hospital lane in Shivajinagar has had no water for two days.",Water Supply,High,Negative
+"There is a crater in the middle of Outer Ring Road near Marathahalli bridge, a bike rider fell yesterday.",Roads and Potholes,High,Negative
+"The tar on our street was dug up for the pipeline and never relaid, dust everywhere in Banashankari.",Roads and Potholes,Medium,Negative
+"Kindly resurface the bumpy stretch outside the school, parents are complaining.",Roads and Potholes,Low,Neutral
+"Open drain cover on the main road at Peenya, someone will fall in at night.",Roads and Potholes,High,Negative
+"Raste mele dodda gundi ide, auto gale ellaa sigaakolluttive, Hebbal flyover hattira.",Roads and Potholes,Medium,Negative
+"Footpath tiles are broken and lifted near the market in Basavanagudi, old people trip.",Roads and Potholes,Medium,Negative
+"The speed bump near the temple has no paint and caused two accidents.",Roads and Potholes,High,Negative
+"Garbage trucks skip our lane every alternate day, bins are overflowing in Domlur.",Waste Collection,Medium,Negative
+"Piles of plastic and food waste near the lake in Ulsoor, crows and dogs tear them open.",Waste Collection,Medium,Negative
+"Please arrange a bulk waste pickup for construction debris in front of my plot, Kalyan Nagar.",Waste Collection,Low,Neutral
+"Kasa tegiyoru bartilla 4 dina aaytu, tumba vaasane, Vijayanagar",Waste Collection,Medium,Negative
+"Mane haththira kasa sudtidare, hoge tumba ide, makkalige usiraata kashta.",Waste Collection,High,Negative
+"Black spot near the park again filled with garbage after the weekend market in Jayanagar.",Waste Collection,Medium,Neutral
+"Wet waste has not been picked since Friday and maggots are appearing, please send someone.",Waste Collection,High,Negative
+"The light near the school crossing is not working and the kids cross in the dark.",Street Lighting,High,Negative
+"There is water logging on the road after every rain because the drain is choked with garbage.",Roads and Potholes,Medium,Negative
+"Uneven road after cable cut, vehicles stuck, Electronic City phase 1.",Roads and Potholes,Medium,Neutral
+"A water pipe was cut during road digging and the whole street is flooded.",Water Supply,High,Negative
+"Waste burning behind the hospital, smoke is entering the wards.",Waste Collection,High,Negative
+"Street lamp pole is leaning and might fall on the road at Sadashivanagar, wires also hanging.",Street Lighting,High,Negative
+"Neeru supply time badalaagide anta yaarigu gottilla, Banashankari",Water Supply,Low,Neutral

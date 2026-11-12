@@ -1,0 +1,44 @@
+=== CATEGORY, stratified split ===
+                    precision    recall  f1-score   support
+
+Roads and Potholes      1.000     1.000     1.000        44
+   Street Lighting      1.000     1.000     1.000        44
+  Waste Collection      1.000     1.000     1.000        43
+      Water Supply      1.000     1.000     1.000        44
+
+          accuracy                          1.000       175
+         macro avg      1.000     1.000     1.000       175
+      weighted avg      1.000     1.000     1.000       175
+
+=== CATEGORY, hand-written test set ===
+                    precision    recall  f1-score   support
+
+Roads and Potholes      0.857     0.667     0.750         9
+   Street Lighting      0.900     1.000     0.947         9
+  Waste Collection      0.889     1.000     0.941         8
+      Water Supply      0.900     0.900     0.900        10
+
+          accuracy                          0.889        36
+         macro avg      0.887     0.892     0.885        36
+      weighted avg      0.887     0.889     0.883        36
+
+=== URGENCY, stratified split ===
+              precision    recall  f1-score   support
+
+        High      1.000     1.000     1.000        56
+         Low      1.000     1.000     1.000        56
+      Medium      1.000     1.000     1.000        63
+
+    accuracy                          1.000       175
+   macro avg      1.000     1.000     1.000       175
+weighted avg      1.000     1.000     1.000       175
+
+=== SENTIMENT, stratified split ===
+              precision    recall  f1-score   support
+
+    Negative      0.898     0.919     0.908        86
+     Neutral      0.920     0.899     0.909        89
+
+    accuracy                          0.909       175
+   macro avg      0.909     0.909     0.909       175
+weighted avg      0.909     0.909     0.909       175

@@ -1,0 +1,873 @@
+id,text,category,urgency,sentiment,lang_style,location,time
+1,kambdaa deepa muri hogide electronic city alli tondare ide dayavittu bega sari maadi idu sahisoke aagalla,Street Lighting,Medium,Negative,kanglish,Electronic City,
+2,"Namma area Electronic City nali Friday inda neeru baralla, tumba tondare. dayavittu gamana kodi. tumba kopa brautte.",Water Supply,Medium,Negative,kanglish,Electronic City,Friday inda
+3,kengeri nalli kasa ninne inda tegiyalla makkalige tondare aagutte urgent tumba kasta aagide,Waste Collection,High,Negative,kanglish,Kengeri,ninne inda
+4,"Indiranagar 1st Stage nalli kasa kaledha vaaradinda tegiyalla. aksidenta aagbahudu, dayavittu bega maadi. nimma department yenu maaduttide?",Waste Collection,High,Negative,kanglish,Indiranagar 1st Stage,kaledha vaaradinda
+5,"tap nlali neeru pressure tumba kadime ide kaledha 3 dinagalinda, peenya. action togolli please.",Water Supply,Medium,Negative,kanglish,Peenya,kaledha 3 dinagalinda
+6,"Main water pipe is leaking near mrket in Hebbal, water is being wasted. gamanakke tandidini, nodi. Kindly acknowledge.",Water Supply,Low,Neutral,english,Hebbal,
+7,"garbage is burning in d open at domlur, lots of smoke. plaese do the needful.",Waste Collection,Medium,Negative,english,Domlur,
+8,the garbage tuck did not come to sadashivanagar fom friday waste is piling up plz fix it urgently we are fed up with this negligence pls,Waste Collection,High,Negative,english,Sadashivanagar,from Friday
+9,kasa vilebari vaahana koramangala ge baralilla friday ida kasa raasi aagdie samaya sikkaaga nodi,Waste Collection,Low,Neutral,kanglish,Koramangala,Friday inda
+10,"school hattira aala gundi ide, bike gale jaarutive, Jayanagar 4th Block. aksidenta aagbahudu, dayavittu bega maadi. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Jayanagar 4th Block,
+11,Dead animal and rotting garbge near metro station in Electronic City. Kindly look into it soon. Vry disappointed.,Waste Collection,Medium,Negative,english,Electronic City,
+12,kasa vilebari vaahana kalyan nagar ge baralilla 5 dinagalinda kasa raasi aagid tumba hurry illa nodi dhanyavadagalu,Waste Collection,Low,Neutral,kanglish,Kalyan Nagar,5 dinagalinda
+13,d road at Mysre rd is badly damaged and full of potholes since Monday. Immediate action needed. Shmae on d department.,Roads and Potholes,High,Negative,english,Mysore Road,since Monday
+14,Tree cut waste and branches left on the road at Kengeri for 5 days.,Waste Collection,Low,Neutral,hard,Kengeri,for 5 days
+15,jp nagar nali manhole muchala illa raste mele gudni tumba hurry illa nodi gamanisi thaks,Roads and Potholes,Low,Neutral,kanglish,JP Nagar,
+16,"Namma street nalli light barthilla eradu vaaragalinda, Saashivanagar. samaya sikkagaa nodi. gamanisi, thanks.",Street Lighting,Low,Neutral,kanglish,Sadashivanagar,eradu vaaragalinda
+17,metro station hattira kasada dabba tumbi hariyuttide tubma vaasane vijayanagar thakshana sari maadi plz,Waste Collection,High,Negative,kanglish,Vijayanagar,
+18,"Indrianagar 1st Stage hatira stret light uriyuttilla. gamanakke tandidini, nodi. dhanyavaada.",Street Lighting,Low,Neutral,kanglish,Indiranagar 1st Stage,
+19,"d garbage truck did not come to Peenya since yesterday, waste is piling up. Kindly look into it soon. Thank you.",Waste Collection,Medium,Neutral,english,Peenya,since yesterday
+20,"hosiptal hattira aala gundi ide, bike gale jaarutive, dolmur. tumba hurry illa, nodi. ...",Roads and Potholes,Low,Neutral,kanglish,Domlur,
+21,No street lights in our lane at Marathahalli since Sunday. It is pitch dark at night. Please resolve this at the earliest. We are fed up with this negligence.,Street Lighting,Medium,Negative,english,Marathahalli,since Sunday
+22,the rod at hebbal is badly damaged and full of potholes for 5 days kindly look into it soo we are fed up wid this negligence,Roads and Potholes,Medium,Negative,english,Hebbal,for 5 days
+23,"Ola kasa mattu odd kasa mix maadtidaare Electronic City nalli. action togolli please. gamanisi, thanks.",Waste Collection,Medium,Neutral,kanglish,Electronic City,
+24,"Water cut at Bannerghatta Road, taps dry for the last 3 days.",Water Supply,High,Negative,hard,Bannerghatta Road,for the last 3 days
+25,"bus stop hattira satta praani mattu kasa kuliyutide, Kengeri. action togolli please. nimma department yenu maaduttide?",Waste Collection,Medium,Negative,kanglish,Kengeri,
+26,"Neeru supply illa eradu vaaragalinda, tanker ge duddu kodtidini, Sadashivanagar. makkalige tondare aagutte, urgent. nimma department yenu maaduttide?",Water Supply,High,Negative,kanglish,Sadashivanagar,eradu vaaragalinda
+27,"Raste kelasa ardhakke bittidare park hattira Bannerghatta Road nalli, jalli kallu ellaa kade. aksidenta aagbahudu, dayavittu bega maadi. tumba kopa barutte.",Roads and Potholes,High,Negative,kanglish,Bannerghatta Road,
+28,"Shivajinagar ಬಳಿ ಬೀದಿ ದೀಪ ಕಳೆದ ವಾರದಿಂದ ಉರಿಯುತ್ತಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Street Lighting,High,Negative,kannada_script,Shivajinagar,ಕಳೆದ ವಾರದಿಂದ
+29,watr is not coming in the taps at BTM Layout for a week now. Please resolve this at the earilest. Toatlly unacceptable!,Water Supply,Medium,Negative,english,BTM Layout,for a week now
+30,"Main water pipe is leaking near bus stop in Jayanagar 4th Block, water is being wasted. This is an emergency! Kindly acknowledge.",Water Supply,High,Neutral,english,Jayanagar 4th Block,
+31,market hattira kasada dabba tumbi hariyuttide tumba vaasane ulsoor gamanakke tandidini nodi thans,Waste Collection,Low,Neutral,kanglish,Ulsoor,
+32,ನಮ್ಮ ಏರಿಯಾ Domlur ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರು ಕೊಳಕಾಗಿದೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Water Supply,Medium,Negative,kannada_script,Domlur,
+33,"MG Road nalli footpath odedide, raste asamaana ide. tumba hurry illa, nodi. dhanyavadagalu.",Roads and Potholes,Low,Neutral,kanglish,MG Road,
+34,"metro station hattira aala gundi ide, bike gale jaarutive, Ulsoor. thakshana sari maadi. idu sahisoke aagalla.",Roads and Potholes,High,Negative,kanglish,Ulsoor,
+35,broken stret lamp hanging dangerously near park in banashankari. request you to take action. ...,Street Lighting,Medium,Neutral,english,Banashankari,
+36,the road at mg rd is badly daamged and full of potholes for two weeks immediate action needed worst service nobody cares ...,Roads and Potholes,High,Negative,english,MG Road,for two weeks
+37,main water pipe is leaking near bus stop in whitefield watr is being wasted knidly look into this when you get time regards,Water Supply,Low,Neutral,english,Whitefield,
+38,dark stretch near metro station mysore rd all d lights are off women feel unsafe very urgent kindly act today worst service nobody cares,Street Lighting,High,Negative,english,Mysore Road,
+39,btm layout alli kudiyuva neeru kolachaagide vaasane barutte makkalige tondare aagutte urgent tmba kasta aagide,Water Supply,High,Negative,kanglish,BTM Layout,
+40,"Borewell neeru kalusha aagide KR Puarm nalli, kudiyoke aagalla. askidenta aagbahudu, dayavittu bega maadi. idu sahisoke aagalla.",Water Supply,High,Negative,kanglish,KR Puram,
+41,"Pipe cut by the cable contracors near scohol in Jayanagar 4th Bolck, no water.",Water Supply,High,Negative,hard,Jayanagar 4th Block,for the last 3 days
+42,"Basavanagudi nalli footpath odedide, rsate aasmaana ide. dayavittu bega sari maadi. gamanisi, thansk.",Roads and Potholes,Medium,Neutral,kanglish,Basavanagudi,
+43,"Water cut in Banashankari without any notice. It is unsafe, resolve ASAP. Very disappointed.",Water Supply,High,Negative,english,Banashankari,
+44,"market hattira kasada dabba tumbi hariyuttide, tumba vaasane, Kalyan Nagar. aksidenta aagbahudu, dayavittu bega maadi. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,Kalyan Nagar,
+45,the road at yelahanka is badly damaged and full of potholes. please do the needful. regards.,Roads and Potholes,Medium,Neutral,english,Yelahanka,
+46,overflowing dustbin near school in malleshwaram terrible smell makkalige tondare aagutte urgent worst service nobody cares,Waste Collection,High,Negative,english,Malleshwaram,
+47,HSR Layout main road nalli light fuse aagide. thakshana sari maadi.,Street Lighting,High,Negative,kanglish,HSR Layout,
+48,koramangala nalli tar raste poorti hogide hosa asphalt haaki emergency ivattu ne sari maadi tumba kasta aagide,Roads and Potholes,High,Negative,kanglish,Koramangala,
+49,"Male neeru gundi nalli tumbide, Kalayn Nagar main road. gamanakke tandidini, nodi. dhanyavaada.",Roads and Potholes,Low,Neutral,kanglish,Kalyan Nagar,
+50,BTM Layout hattira raste mele dodda gundi ide. dayavittu gamana kodi.,Roads and Potholes,Medium,Neutral,kanglish,BTM Layout,
+51,Ulsoor ನಲ್ಲಿ street light ಕಳೆದ ವಾರದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.,Street Lighting,Medium,Negative,kannada_script,Ulsoor,ಕಳೆದ ವಾರದಿಂದ
+52,"shivajinagar nlali raste tmba haalaagide, gundigalu ive 5 dinagalinda. action togolli plz. yaarigu kaalji illa, bejar aagide.",Roads and Potholes,Medium,Negative,kanglish,Shivajinagar,5 dinagalinda
+53,"market hattira kasada dabba tumbi hairyuttide, tuba vaasane, mysore road. tumba uregnt ide, bega action togoli. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,Mysore Road,
+54,neeru suply illa 5 dinagalinda tanker ge duddu kodtidini electronic city ation togolli plaese dhanyavadagalu,Water Supply,Medium,Neutral,kanglish,Electronic City,5 dinagalinda
+55,market hattira dari deepa uriyalla kaledha vaaradinda sadashivanagar tumba hurry illa ndi idu sahisoke aaaglla !!,Street Lighting,Low,Negative,kanglish,Sadashivanagar,kaledha vaaradinda
+56,"Pipeline burst near hospital, Jayanagar 4th Block. Road is flooded with water. No rush, but plz see to it.",Water Supply,Low,Neutral,english,Jayanagar 4th Block,
+57,"Marathahalli alli kudiyuva neeru kolachaagide, vaasane barutte. tumba urgent ide, bega action togoli.",Water Supply,High,Negative,kanglish,Marathahalli,
+58,"Jayanagar 4th Block ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಮೂರು ದಿನಗಳಿಂದ ಹಾಗೆಯೇ ಇವೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ.",Roads and Potholes,Low,Neutral,kannada_script,Jayanagar 4th Block,ಮೂರು ದಿನಗಳಿಂದ
+59,"Overflowing dustbin near park in Shivajinagar, terrible smell. action togolli please. Shame on the department.",Waste Collection,Medium,Negative,english,Shivajinagar,
+60,No door to door waste collection in our street at Basavanagudi sinc Monday. Just informing the department. Thanks in advance.,Waste Collection,Low,Neutral,english,Basavanagudi,since Monday
+61,"No street lights in our lane at Whitefield. It is pitch dark at night. It is unsafe, resolve ASAP. Worst service, nobody cares.",Street Lighting,High,Negative,english,Whitefield,
+62,"ನಮ್ಮ ಏರಿಯಾ Jayanagar 4th Block ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರು ಕೊಳಕಾಗಿದೆ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು.",Water Supply,High,Negative,kannada_script,Jayanagar 4th Block,
+63,"Raste kelasa ardhakke bittidare hospital hattira MG Road nalli, jalli kallu ellaa kade. dayavittu gamana kodi. thanks.",Roads and Potholes,Medium,Neutral,kanglish,MG Road,
+64,electronic ciy nalli yaavdue suchane illade water cut maadidru kaledha 3 dinagalinda aksidenta aagbahuud dayavittu bega maadi tumba kopa barutte ...,Water Supply,High,Negative,kanglish,Electronic City,kaledha 3 dinagalinda
+65,Low watr pressure in our apartment at Peenya. Please resolve this at the earliest. Thanks in advance.,Water Supply,Medium,Neutral,english,Peenya,
+66,tarsh pied up beside the drain near metro station hsr layout kindly look into it soon,Waste Collection,Medium,Negative,english,HSR Layout,
+67,"Kambada deepa mri hogide Sadashivanagar all, tondare ide. dayavittu gamana kodi. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,Sadashivanagar,
+68,basavanagudi main rd nali lite fuse aaigde tuesday inda. samaya sikkaaga nodi. dhanyavaada.,Street Lighting,Low,Neutral,kanglish,Basavanagudi,Tuesday inda
+69,"Raste pakka kasa haakidare park hattira Indiranagar 1st Stage, nayigalu elala kade. action togolli please. dhanyavaada.",Waste Collection,Medium,Neutral,kanglish,Indiranagar 1st Stage,
+70,"Trash piled up beside the drain near bus stop, Ulsoor. tumba urgent ide, bega action togoli. Totally unacceptable!",Waste Collection,High,Negative,english,Ulsoor,
+71,"bus stop hatitra main pipe odediddhe, neeru sorutide, Hennur. dayavittu gamana kodi. thanks.",Water Supply,Medium,Neutral,kanglish,Hennur,
+72,"no door to door waste collection in our street at hsr layout. kndly look into this when you get time. worst service, nobody cares.",Waste Collection,Low,Negative,english,HSR Layout,
+73,"rd repair work left incomplete near metro station, Vjayanagar, loose gravel everywher. Just informing d department.",Roads and Potholes,Low,Neutral,english,Vijayanagar,
+74,"Hennur main road nalli light fuse aagide ninne inda. tumba hurry illa, nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,Hennur,ninne inda
+75,"Chaduru hattira kasa tumbide, school hattira HSR Layout. emergency, ivattu ne sari maadi. tumba kopa barutte.",Waste Collection,High,Negative,kanglish,HSR Layout,
+76,we are forced to buy tanker water as the tap is dry sice last week in mysore road. please reoslve this at the earliest. regards.,Water Supply,Medium,Neutral,english,Mysore Road,since last week
+77,"Bannerghatta Road nalli tar raste porti hogide, hosa asphalt haaki. thakshana sari maadi.",Roads and Potholes,High,Negative,kanglish,Bannerghatta Road,
+78,"Overflowing dustbin near hospital in Ulsoor, terrible smell. Please check when possible. Thank you.",Waste Collection,Low,Neutral,english,Ulsoor,
+79,"Dark stretch near metro station, Shivajinagar. All the lights are off, women feel unsafe. Just informing the department. Kindly acknowledge.",Street Lighting,Low,Neutral,english,Shivajinagar,
+80,"chaduru hattira kasa tumbide, bus stop hattira hennur. gamanakke tandidini, nodi.",Waste Collection,Low,Negative,kanglish,Hennur,
+81,Speed breaker near school at Koramangala is broken and dangerous. Request you to take action. Very disappointed.,Roads and Potholes,Medium,Negative,english,Koramangala,
+82,electronic city nalli kasa sudtidare tmuba hogeyide action togolli please gamanisi thanks,Waste Collection,Medium,Neutral,kanglish,Electronic City,
+83,"raatri marathahalli nalli tumba kattale, street light kharaabu aagide. aksidenta aagbahudu, dayavittu bega maadi. nimma department yenu maaduttide?",Street Lighting,High,Negative,kanglish,Marathahalli,
+84,Street light is on during the day and wasting power in Hebbal. Please do the needful. Grateful for your help.,Street Lighting,Medium,Neutral,english,Hebbal,
+85,water cut in basavanagudi without any notice for two weeks please fix it urgntly,Water Supply,High,Negative,english,Basavanagudi,for two weeks
+86,male neeru gundi nalli tumbide eletronic city main road dayavittu bega sari maadi idu sahisoke aagalla,Roads and Potholes,Medium,Negative,kanglish,Electronic City,
+87,namma street nalli light barthilla sunday inda kengeri samaya sikkaaga nodi gamanisi thnaks,Street Lighting,Low,Neutral,kanglish,Kengeri,Sunday inda
+88,Sadashivanagar ಬಳಿ ಬೀದಿ ದೀಪ ಉರಿಯುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ.,Street Lighting,Medium,Negative,kannada_script,Sadashivanagar,
+89,main wtaer pipe is leaking near prk in mysore rd watr is being wasted kindly lok into it soon this is very furstrating !!,Water Supply,Medium,Negative,english,Mysore Road,
+90,Street light is on during the day and wasting power in Whitefield. Request you to take action. We are fed up with this negligence.,Street Lighting,Medium,Negative,english,Whitefield,
+91,deep ptohole near metro station in shivajinagar two-wheelers are slipping please resolve this at d earilest grateful for your help,Roads and Potholes,Medium,Neutral,english,Shivajinagar,
+92,indiranagar 1st stage main road nalli lite fuse aagide. saaya sikkaaga nodi. tumba kasta aagide.,Street Lighting,Low,Negative,kanglish,Indiranagar 1st Stage,
+93,Mysore Road ರಸ್ತೆಯಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ಇಲ್ಲ. ತಕ್ಷಣ ಸರಿಪಡಿಸಿ.,Roads and Potholes,High,Negative,kannada_script,Mysore Road,
+94,d tar road in jp nagar has completely come off please re-asphalt kindly look ito it soon thanks in advance,Roads and Potholes,Medium,Neutral,english,JP Nagar,
+95,stret lights are not working on the road near school in Yelahanka. Just informing the department. Regards.,Street Lighting,Low,Neutral,english,Yelahanka,
+96,"Neeru supply illa ondu vaarada inda, tanker ge duddu kodtidini, Mysore Road. dayavittu gamana kodi. dhanyavadaaglu.",Water Supply,Medium,Neutral,kanglish,Mysore Road,ondu vaarada inda
+97,"Streetlight pole near market, Banashankari keeps flickering and then goes off. Kindly look into ths when you get time. Thanks in advance.",Street Lighting,Low,Neutral,english,Banashankari,
+98,"Kengeri ali kudiyuva neeru kolachaagide, vasaane barutte. tumba urgnt ide, bega action togoli. yaarigu kaalji illa, bejaar aagied.",Water Supply,High,Negative,kanglish,Kengeri,
+99,"Mane mane kasa sangraha illa Monday inda namma street nalli, MG Road. action togolli please. tumba kopa barutte.",Waste Collection,Medium,Negative,kanglish,MG Road,Monday inda
+100,"Streetlight pole near metro station, Indiranagar 1st Stage keeps flickering and then goes off. Kindly look into it soon. Grateful for your help.",Street Lighting,Medium,Neutral,english,Indiranagar 1st Stage,
+101,"The tar rd in Dolmur has completely come off, plz re-asphalt. dayavittu bega sari madi.",Roads and Potholes,Medium,Negative,english,Domlur,
+102,"Water cut at Shivajinagar, taps dry since yesterday.",Water Supply,High,Negative,hard,Shivajinagar,since yesterday
+103,"hagalu kooda street light uriyuttide kalyan nagar nalli, current waste aagtide. tumba hurry illa, nodi. dhanyavadagalu. asap",Street Lighting,Low,Neutral,kanglish,Kalyan Nagar,
+104,The street light near Koramangala has not worked since Monday. Please check when possible. Thanks in advance.,Street Lighting,Low,Neutral,english,Koramangala,since Monday
+105,"temple hattira aala gundi ide, bike gale jaarutive, Marathahalli. tumba urgent ide, bega action togoli. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Marathahalli,
+106,"BTM Layout hattira raste mele dodda gundi ide. action togoli please. yaarigu kalaji illa, bejaar aagide.",Roads and Potholes,Medium,Negative,kanglish,BTM Layout,
+107,borewlel neeru kalusha aagide whitefield nalli kudiyoke aagalla dayavittu gamana kodi,Water Supply,Medium,Neutral,kanglish,Whitefield,
+108,"park hattira satta praani mattu kasa kuliuytide, mg road. gamanakke tandidini, nodi. plz",Waste Collection,Low,Negative,kanglish,MG Road,
+109,"KR Puram alli park hattira kambada deepa kettdie, ella kde kattale. dayavittu gamana kodi. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,KR Puram,
+110,"JP Nagar nalli raste tumba haalaagide, gundigalu ive. aksidenta aagbahudu, dayavittu bega maadi. idu sahisoke aagalla.",Roads and Potholes,High,Negative,kanglish,JP Nagar,
+111,"Indiranagar 1st Stage nalli footpath odedide, raste asamaana ide. tumba hrry ill, nodi.",Roads and Potholes,Low,Neutral,kanglish,Indiranagar 1st Stage,
+112,"Raste pakka kasa haakidare school hattira Marathahalli, nayigalu ellaa kade. gamanakke tandidini, nodi. gamanisi, thanks.",Waste Collection,Low,Neutral,kanglish,Marathahalli,
+113,"basavanagudi nalli yaavude suchane illade watr cut maadidru. gamanakke tandidini, nodi. tumba kasta aagide.",Water Supply,Low,Negative,kanglish,Basavanagudi,
+114,Bannerghatta Road ನಲ್ಲಿ ಕಸ ಭಾನುವಾರದಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ತಕ್ಷಣ ಸರಿಪಡಿಸಿ.,Waste Collection,High,Negative,kannada_script,Bannerghatta Road,ಭಾನುವಾರದಿಂದ
+115,raste kealsa ardhakke bittidare makret hattira koramangala nalli jalli kallu ellaa kade action togolli plz nimma department yenu maaduttide?,Roads and Potholes,Medium,Negative,kanglish,Koramangala,
+116,"Male neeru gundi nalli tumbide, HSR Layout main road. makkalige tondare aagutte, urgent. tumba kopa barutte.",Roads and Potholes,High,Negative,kanglish,HSR Layout,
+117,"Domlur nalli kasada raasi tegiyiri, sanjigalu hechchaguttive. dayavittu gamana kodi. idu sahisoke aagalla.",Waste Collection,Medium,Negative,kanglish,Domlur,
+118,Hennur ಬಳಿ ಬೀದಿ ದೀಪ ಐದು ದಿನಗಳಿಂದ ಉರಿಯುತ್ತಿಲ್ಲ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ. ಧನ್ಯವಾದ.,Street Lighting,Low,Neutral,kannada_script,Hennur,ಐದು ದಿನಗಳಿಂದ
+119,"The tar road in Whitefield has completely cme off, please re-asphalt. This is an emergency! Totally uacceptable!",Roads and Potholes,High,Negative,english,Whitefield,
+120,"hagalu kooda street liht uriyuttide vijayanagar nalli, current waste aagtide. tumba hurry illa, nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,Vijayanagar,
+121,"Namma area Shivajinagr nalli neeru baralla, tumba tondare. action togolli plz.",Water Supply,Medium,Neutral,kanglish,Shivajinagar,
+122,"The tar road in Hebbal has completely come off, please re-asphalt. tumba hurry illa, nodi. We are fed up with this negligence.",Roads and Potholes,Low,Negative,english,Hebbal,
+123,Hebbal ನಲ್ಲಿ ಕಸ ಎರಡು ವಾರಗಳಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ.,Waste Collection,Low,Neutral,kannada_script,Hebbal,ಎರಡು ವಾರಗಳಿಂದ
+124,"The light on d main road at Hebbal is fused for 5 days. Very urgent, kindly act today. Very disappointed.",Street Lighting,High,Negative,english,Hebbal,for 5 days
+125,ulsoor main road nalli light fuse aagide friday inda dayaittu bega sari maadi idu sahisoke aagalla,Street Lighting,Medium,Negative,kanglish,Ulsoor,Friday inda
+126,conatminated watr coming from d borewell tap at basavanagudi. please check when possible.,Water Supply,Low,Neutral,english,Basavanagudi,
+127,"Pipeline odedu raste ella neeru, market hattira Banashankari. dayavittu bega sari maadi. tumba kopa barutte.",Water Supply,Medium,Negative,kanglish,Banashankari,
+128,stret light is on durnig the day and wasting power in bsaavanagudi jst informing the department regards,Street Lighting,Low,Neutral,english,Basavanagudi,
+129,"Namma srteet nlli lihgt barthilla eradu vaaragalinda, BTM Layout. tumba urgent ide, bega action togoli. tumba kopa barutte.",Street Lighting,High,Negative,kanglish,BTM Layout,eradu vaaragalinda
+130,Vijayanagar ಬಳಿ ಬೀದಿ ದೀಪ ಭಾನುವಾರದಿಂದ ಉರಿಯುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.,Street Lighting,Medium,Negative,kannada_script,Vijayanagar,ಭಾನುವಾರದಿಂದ
+131,"The garbage truck did nt come to Basavanagudi for a week now, waste is piling up. No rush, but please see to it.",Waste Collection,Low,Neutral,english,Basavanagudi,for a week now
+132,"mane mane kasa sangraha illa namma stret nalli, malleshwaram. aksidenta aagbahudu, dayavittu bega maadi. yaairgu kaalji illa, bejaar aagide.",Waste Collection,High,Negative,kanglish,Malleshwaram,
+133,"Hagalu kooda sreet lgiht uriyuttide Banashankari nalli, current waste aagtide. thakshana sari maadi.",Street Lighting,High,Neutral,kanglish,Banashankari,
+134,garbage has not been collected in kr puram sinc sunday samaya sikkaaga nodi thank u,Waste Collection,Low,Neutral,english,KR Puram,since Sunday
+135,"Low water pressure in our apartment at BTM Layout since Tuesday. aksidenta aagbahudu, dayavittu bega maadi. We are fed up with this negligence.",Water Supply,High,Negative,english,BTM Layout,since Tuesday
+136,"bus stop hattira kasda dabba tumbi hariyuttide, tumba vaasane, Ulsoor. thakshana sari maadi. yaarigu kaalji illa, bejaar aagide.",Waste Collection,High,Negative,kanglish,Ulsoor,
+137,"park hattira dari deepa uriyalla Tuesday inda, MG Road. dayavittu bega sari maadi. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,MG Road,Tuesday inda
+138,"market hattira speed breaker odedide, apaayakaari, Jaynaagar 4th Block. tumba urgnt ide, bega action togoli.",Roads and Potholes,High,Negative,kanglish,Jayanagar 4th Block,
+139,kalyan nagar nlali neeru barthilla thakshana sari maadi yaarigu kaalji illa bejar aagide,Water Supply,High,Negative,kanglish,Kalyan Nagar,
+140,"Jayanagar 4th Block nalli street lamp aarsi aasi uriyutte, sari maadi. tumba urgent ide, bega action togoli. tumba kopa barutte.",Street Lighting,High,Negative,kanglish,Jayanagar 4th Block,
+141,Ulsoor ನಲ್ಲಿ ಕಸ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಧನ್ಯವಾದಗಳು.,Waste Collection,Low,Neutral,kannada_script,Ulsoor,
+142,"Raste pakka kasa haakidare metro station hattira Marathahalli, nayigalu ellaa kade. tumba hurry illa, nodi. thanks.",Waste Collection,Low,Neutral,kanglish,Marathahalli,
+143,marathahalli nalli kasa tegiyalla. dayavittu bega sari maadi. idu sahisoke aagalla.,Waste Collection,Medium,Negative,kanglish,Marathahalli,
+144,pipeline odedu raste ella neeru metro station hatira shivajinagar action togolli please gamanisi thanks,Water Supply,Medium,Neutral,kanglish,Shivajinagar,
+145,"Kalyan Nagar nalli kasa sudtidare, tmuba hogeyide. emergency, ivattu ne sari maadi. tumba kasta aagide.",Waste Collection,High,Negative,kanglish,Kalyan Nagar,
+146,"Kambada deepa muri hogide Peenya alli, tondare ide. gamanakke tandidini, nodi. idu sahiske aagalla.",Street Lighting,Low,Negative,kanglish,Peenya,
+147,"hebbal nalli neeru barthilla 5 dinagalinda. gamanakke tandidini, nodi. dhanyavaada. pls",Water Supply,Low,Neutral,kanglish,Hebbal,5 dinagalinda
+148,Water is not coming in the taps at Vijayanagar since last week. Please check when possible. Kindly acknowledge.,Water Supply,Low,Neutral,english,Vijayanagar,since last week
+149,JP Nagar ಹತ್ತಿರ ರಸ್ತೆಯಲ್ಲಿ ದೊಡ್ಡ ಗುಂಡಿ ಇದೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ.,Roads and Potholes,Low,Neutral,kannada_script,JP Nagar,
+150,"Pipeline burst near school, Basavanagudi. Road is flooded with water. Kindly look into this when you get time.",Water Supply,Low,Neutral,english,Basavanagudi,
+151,"The lamp post outside my house in Kengeri is dead for 5 days, whole street is dark. It is unsafe, resolve ASAP. Worst service, nobody cares.",Street Lighting,High,Negative,english,Kengeri,for 5 days
+152,chaduru hattira kasa tumbide market hattira hebbal dayavittu gamana kodi,Waste Collection,Medium,Neutral,kanglish,Hebbal,
+153,"Dark stretch near bus stop, Jayanagar 4th Bock. All the lites are off, women feel unsafe. It is unsafe, resole ASAP. Very disappointed.",Street Lighting,High,Negative,english,Jayanagar 4th Block,
+154,"basavanagudi main rd nalli lite fuse aagide tuesday inda. gamanakke tandiini, nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,Basavanagudi,Tuesday inda
+155,Sadashivanagar ನಲ್ಲಿ ಕಸ ಸೋಮವಾರದಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Waste Collection,Low,Negative,kannada_script,Sadashivanagar,ಸೋಮವಾರದಿಂದ
+156,Bannerghatta Road main road nalli light fuse aagide. thakshana sari maadi. idu saisoke aagalla.,Street Lighting,High,Negative,kanglish,Bannerghatta Road,
+157,manhole cover missnig on the road at ulsoor open pit plase resolve this at the earliest pls,Roads and Potholes,Medium,Negative,english,Ulsoor,
+158,"drniking water is dirty and smelly in banashankari, tap watr is brownish. childern and elderly people are sufering. we are fed up wid this negligence.",Water Supply,High,Negative,english,Banashankari,
+159,"Kambada deepa muri hogide Kengeri alli, tondare ide. dayavittu bega sari maadi. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,Kengeri,
+160,street lght is on during d day and wasting power in malleshwaram this is an emergency! totally unaceptable!,Street Lighting,High,Negative,english,Malleshwaram,
+161,Whitefield ನಲ್ಲಿ ಕಸ ಐದು ದಿನಗಳಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಧನ್ಯವಾದ.,Waste Collection,Low,Neutral,kannada_script,Whitefield,ಐದು ದಿನಗಳಿಂದ
+162,"Contaminated watr coming from the borewell tap at Eelctronic City. No rsh, but plz see to it. Worst servic, nobody cares.",Water Supply,Low,Negative,english,Electronic City,
+163,there is no water supply in shivajinagar from friday samaya sikkaaga nodi grateful for your help,Water Supply,Low,Neutral,english,Shivajinagar,from Friday
+164,"Cauvery watr has not been supplied to Jayanagar 4th Block since Tuesday. No rush, but plz see to it. Thanks in advance.",Water Supply,Low,Neutral,english,Jayanagar 4th Block,since Tuesday
+165,The light on the main road at Vijayanagar is fused for a week now. Request you to take action. Shame on the department.,Street Lighting,Medium,Negative,english,Vijayanagar,for a week now
+166,"overflowing dustbin ner school in sadashivanagar, terrible smell. tumba hurry illa, nodi. kindly acknowledge.",Waste Collection,Low,Neutral,english,Sadashivanagar,
+167,there is no water suply in marathahalli since sunady. kindly look into this when u get time. regards.,Water Supply,Low,Neutral,english,Marathahalli,since Sunday
+168,Water is not coming in d taps at Rajajinagar. Please resolve this at d earilest. We are fed up with this negligence.,Water Supply,Medium,Negative,english,Rajajinagar,
+169,"Light cut hogide Basavanagudi nalli, street light off.",Street Lighting,Medium,Negative,hard,Basavanagudi,since yesterday
+170,Basavanagudi ರಸ್ತೆಯಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ಇಲ್ಲ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ.,Roads and Potholes,Medium,Negative,kannada_script,Basavanagudi,
+171,"temple hattira dari deepa uriyalla, Indiranagar 1st Stage. dayavittu bega sari maadi. gamanisi, thanks.",Street Lighting,Medium,Neutral,kanglish,Indiranagar 1st Stage,
+172,"Trash piled up beside the drain near metro station, Basavanagudi. Request you to take action. Worst service, nobody cares.",Waste Collection,Medium,Negative,english,Basavanagudi,
+173,hospital hattira main pie odediddhe neeru sorutide sadashivanagar samaya sikkaaga nodi dhanyavadagalu asap,Water Supply,Low,Neutral,kanglish,Sadashivanagar,
+174,basavanagudi hattira raste mele dodda gundi ide tumba hurry illa nodi thanks,Roads and Potholes,Low,Neutral,kanglish,Basavanagudi,
+175,"HSR Layout nlali footpath odedide, ratse asamaana ide. samyaa sikkaaga nodi. nimma department yenu maaduttide?",Roads and Potholes,Low,Negative,kanglish,HSR Layout,
+176,"baasvanagudi hattira ratse mele dodda gundi ide. makkalige tondare aagutte, urgent. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Basavanagudi,
+177,Vijayanagar ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ. ಧನ್ಯವಾದ.,Water Supply,Low,Neutral,kannada_script,Vijayanagar,
+178,"market hattira satta praani mattu kasa kuliyutide, Jayanagar 4th Block. samaya sikkaaga nodi. dhanyavaada.",Waste Collection,Low,Neutral,kanglish,Jayanagar 4th Block,
+179,"hebbal alli hospital hattira kambada deepa kettide, ella kade kattale. action togolli please. yaarigu kaalji ila, bejaar aagide.",Street Lighting,Medium,Negative,kanglish,Hebbal,
+180,"ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಬೀದಿ ದೀಪಗಳು ಹಾಳಾಗಿವೆ, Malleshwaram ಪ್ರದೇಶದಲ್ಲಿ ಎಲ್ಲೆಡೆ ಕತ್ತಲೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ.",Street Lighting,Low,Neutral,kannada_script,Malleshwaram,
+181,"Deep pothole near market in Mysore Road, two-wheelers are slipping. dayavittu gamana kodi.",Roads and Potholes,Medium,Negative,english,Mysore Road,
+182,whitefiled hospital hattira lights elladu off hengasarige suraksha illa emergency ivattu ne sari maadi idu sahisoke aagalla,Street Lighting,High,Negative,kanglish,Whitefield,
+183,"Kengeri nalli raste tumba haalaagide, gundigalu ive kaledha vaaradnida. makkalige tondare aagtute, urgent. tumba kasta aagide.",Roads and Potholes,High,Negative,kanglish,Kengeri,kaledha vaaradinda
+184,deep pothole near temple in btm layot two-wheelers are slipping no rush but plz see to it thank u,Roads and Potholes,Low,Neutral,english,BTM Layout,
+185,"Tap nalli nereu pressure tumba kadime ide Friday ina, Jayanagar 4th Block. dayavittu gmaana kodi. nmima department yenu maaduttide?",Water Supply,Medium,Negative,kanglish,Jayanagar 4th Block,Friday inda
+186,"metro station hattira kasada dabba tumbi hariyuttide, tumba vaasane, whitefield. tumba hurry illa, ndi. gamanisi, thanks.",Waste Collection,Low,Neutral,kanglish,Whitefield,
+187,no street lights in our lane at kengei. it is pitch dark at night. just informing d department. regards.,Street Lighting,Low,Neutral,english,Kengeri,
+188,"Tap nalli neeru pressure tumba kadime ide eradu vaaragalinda, Sadashivanagar. tumba hurry illa, nodi. nimma department yenu maaduttide?",Water Supply,Low,Negative,kanglish,Sadashivanagar,eradu vaaragalinda
+189,water cut in whitefield without any notice no rush but plz see to it regards,Water Supply,Low,Neutral,english,Whitefield,
+190,"Raste kelasa ardhakke bittidare temple hattira Yelahanka nalli, jalli kallu ellaa kade. dayavittu bega sari maadi. dhanyavaada.",Roads and Potholes,Medium,Neutral,kanglish,Yelahanka,
+191,"Drinking water is dirty and smelly in Marathahalli, tap water is brownish. Request you to take action. Grateful for ur help.",Water Supply,Medium,Neutral,english,Marathahalli,
+192,"metro station hattria speed breaker odedide, apaayakaari, Hennur. emergency, ivattu ne sari maadi. idu sahisoe aagalla.",Roads and Potholes,High,Negative,kanglish,Hennur,
+193,ola kasa mattu odd kasa mix maadtidaare kengei nalli dayavittu bega sari maadi tumba kopa barutte,Waste Collection,Medium,Negative,kanglish,Kengeri,
+194,jayanagar 4th block metro station hattira lights elladu off hnegasarige suraksha illa gamanakke tandidini nodi dhanyavadagalu,Street Lighting,Low,Neutral,kanglish,Jayanagar 4th Block,
+195,btm layout nalli raste tumba haalaagide gundigalu ive 5 dinagalinda emergency ivattu ne sari maadi nimma department yenu maaduttide?,Roads and Potholes,High,Negative,kanglish,BTM Layout,5 dinagalinda
+196,"Sadashivanagar alli park hattira kambada deepa kettide, ella kade kattale. dayavittu gamnaa kodi.",Street Lighting,Medium,Negative,kanglish,Sadashivanagar,
+197,Garbage has not been collected in Domlur. Just informing the department. Kindly acknowledge.,Waste Collection,Low,Neutral,english,Domlur,
+198,kr puram main road nalli light fuse aagide ondu vaarada inda tumba urgnt ide bega action togoli dhanyavadagalu,Street Lighting,High,Neutral,kanglish,KR Puram,ondu vaarada inda
+199,"chaduru hattira kasa tumbide, market hattira btm layout. makkalige tondare aagutte, urgent. tumba kopa barutte.",Waste Collection,High,Negative,kanglish,BTM Layout,
+200,"Namma area Jayanagar 4th Block nalli Sunday ida neeru baralla, tumba tondare. action togolli please. yaarigu kaalji illa, bejaar aagide.",Water Supply,Medium,Negative,kanglish,Jayanagar 4th Block,Sunday inda
+201,"Manhole cover missing on the road at Kengeri, open pit. Children and elderly people are suffering. Shame on the department.",Roads and Potholes,High,Negative,english,Kengeri,
+202,"Kalyan Nagar nalli manhole mucchala illa, raste mele gundi. emergency, ivtatu ne sari maadi. yaarigu kaalji ila, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Kalyan Nagar,
+203,Hennur ರಸ್ತೆಯಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ಇಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಧನ್ಯವಾದ.,Roads and Potholes,Low,Neutral,kannada_script,Hennur,
+204,"Main watr pipe is leaking near hospital in Koramangala, water is being wasted. Please do the neeful. Very disappointed.",Water Supply,Medium,Negative,english,Koramangala,
+205,The light on the main road at Kengeri is fused since last week. Please resolve this at the earliest.,Street Lighting,Medium,Neutral,english,Kengeri,since last week
+206,"Raste pakka kasa haakidare metro station hattira Jayanagar 4th Block, nayigalu ellaa kade. samaya sikkaaga nodi.",Waste Collection,Low,Negative,kanglish,Jayanagar 4th Block,
+207,the light on d main rd at ulosor is fused please fix it urgntly this is very frustraing pls,Street Lighting,High,Negative,english,Ulsoor,
+208,"Manhole cover missing on the road at Yelhanka, open pit. acton togolli please. Grateful for ur help.",Roads and Potholes,Medium,Neutral,english,Yelahanka,
+209,"dark stretch near metro station, domlru. all the lights are off, women feel unsafe. request you to take action. we are fed up with this negligence.",Street Lighting,Medium,Negative,english,Domlur,
+210,"chaduru hattira kasa tumbide, market hatitra basavanagudi. thakshana sari maadi. dhanyavaada.",Waste Collection,High,Neutral,kanglish,Basavanagudi,
+211,"Neeru supply illa ninne inda, tanker ge duddu kodtidini, Yelahanka. samaya sikkaaga nodi.",Water Supply,Low,Neutral,kanglish,Yelahanka,ninne inda
+212,"raatri yelahanka nalli tumba kattale, street light kharaabu aagide. tumba hurry illa, nodi.",Street Lighting,Low,Negative,kanglish,Yelahanka,
+213,"no street lites in our lane at shivajinagar sinc sunday. it is pitch dark at night. very urgnt, kindly act today. pls",Street Lighting,High,Negative,english,Shivajinagar,since Sunday
+214,banashankari nalli kasa sudtidare tumba hogeyide daayvittu gamana kodi idu sahisoke aagalla,Waste Collection,Medium,Negative,kanglish,Banashankari,
+215,Garbage has not been colected in Kengeri from Friady. Kindly look into it soon. Totally unacceptable!,Waste Collection,Medium,Negative,english,Kengeri,from Friday
+216,"Garbage dump near the drain at Banashankari, please clean.",Waste Collection,Medium,Neutral,hard,Banashankari,for a week now
+217,Marathahalli main road nalli light fuse aagide kaledha vaaradinda. dayavittu bega sari maadi. nimma department yenu maaduttide?,Street Lighting,Medium,Negative,kanglish,Marathahalli,kaledha vaaradinda
+218,kasa vliebari vaahna whitefield ge baralilla kasa raasi aagide action togolli plz tumba kopa barutte,Waste Collection,Medium,Negative,kanglish,Whitefield,
+219,"d lamp post outside my house in Vijayanagar is dead, whole street is dark. Kindly look into this when u get time. Shmae on d department.",Street Lighting,Low,Negative,english,Vijayanagar,
+220,"Marathahalli ge Kaveri neeru Sunday inda barlilla, tnaker beku. emergency, ivattu ne sari maadi. tumba kopa barutte.",Water Supply,High,Negative,kanglish,Marathahalli,Sunday inda
+221,"Kengeri nalli manhole mucchala illa, raste mele gundi. dayavittu bega sari maadi. thanks.",Roads and Potholes,Medium,Neutral,kanglish,Kengeri,
+222,"JP Nagar ಬಳಿ ಬೀದಿ ದೀಪ ಉರಿಯುತ್ತಿಲ್ಲ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Street Lighting,High,Negative,kannada_script,JP Nagar,
+223,raste kelasa ardhakke bittidare school hattira kalyan nagar nalli jalli kallu ellaa kade dayavittu gamana kodi gamanisi thanks,Roads and Potholes,Medium,Neutral,kanglish,Kalyan Nagar,
+224,no door to door waste collection in our stret at btm layout for the last 3 days. accident can happen any time. we are fed up with this negligence. !!,Waste Collection,High,Negative,english,BTM Layout,for the last 3 days
+225,"Waste is dumped on d roadside near market, Yelahanka, stray dogs everywhere. Kindly look into this when you get time. Thank u.",Waste Collection,Low,Neutral,english,Yelahanka,
+226,raste pakka kasa haakidare mtro station hattra kalyan nagar nayigalu ellaa kade tumba hurry illa nodi tumba kasta aagide asap,Waste Collection,Low,Negative,kanglish,Kalyan Nagar,
+227,"Garbgae has not been colected in Shivajinagar sinc last week. Very urgent, kindly act today. We are fed up wid this negligence.",Waste Collection,High,Negative,english,Shivajinagar,since last week
+228,"Pipe cut by the cable contractors near school in Shivajinagar, no water.",Water Supply,High,Negative,hard,Shivajinagar,since Tuesday
+229,"Mysore Road ನಲ್ಲಿ ಕಸ ನಿನ್ನೆಯಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Waste Collection,High,Negative,kannada_script,Mysore Road,ನಿನ್ನೆಯಿಂದ
+230,"Garbage dump near the drain at Koramangala, please clean.",Waste Collection,Medium,Neutral,hard,Koramangala,for a week now
+231,"Kambada deepa muri hogide MG Road all, tondare ide. action togolli please. thanks.",Street Lighting,Medium,Neutral,kanglish,MG Road,
+232,garbge has nt been colected in Hbbal for 5 days. plz do d needful. Shame on the department.,Waste Collection,Medium,Negative,english,Hebbal,for 5 days
+233,sadashivanagar nalli yaavude suchane illade watr cut maadidru ondu vaarada inda dayavittu bega sari maadi idu sahisoke aagalla,Water Supply,Medium,Negative,kanglish,Sadashivanagar,ondu vaarada inda
+234,hagalu kooda street light uriyuttide kr puram nalli current waste aagtide dayavittu gamana kodi,Street Lighting,Medium,Neutral,kanglish,KR Puram,
+235,"Drinking water is dirty and smelly in Sadashivanagar, tap water is brownish. No rush, but please see to it. Kindly acknowledge.",Water Supply,Low,Neutral,english,Sadashivanagar,
+236,"manhloe cover missing on the rd at indiranagar 1st stage, open pit. plaese resolve this at d earliest. very disappointed.",Roads and Potholes,Medium,Negative,english,Indiranagar 1st Stage,
+237,"Koramangala ನಲ್ಲಿ street light ಭಾನುವಾರದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.",Street Lighting,High,Negative,kannada_script,Koramangala,ಭಾನುವಾರದಿಂದ
+238,Broken street lamp hanging dangerously near park in Kalyan Nagar. Just informing the department. Thanks in advance.,Street Lighting,Low,Neutral,english,Kalyan Nagar,
+239,seped breaker near hospital at banashankari is broken and dangerous please check when possile worst service nobody cares,Roads and Potholes,Low,Negative,english,Banashankari,
+240,"pipeline oddeu raste ella neeru, market hattira kalyan nagar. action togolli plase. dhanyavadagalu.",Water Supply,Medium,Neutral,kanglish,Kalyan Nagar,
+241,there is a huge pothole on the road near whitefeld kindly look into it soon this is very frustrating,Roads and Potholes,Medium,Negative,english,Whitefield,
+242,Koramangala main road nalli light fuse aagide ninne inda. dayavittu bega sari maadi.,Street Lighting,Medium,Negative,kanglish,Koramangala,ninne inda
+243,"Male neeru gundi nalli tumbide, Kalyan Nagar main road. gamanakke tandidini, nodi.",Roads and Potholes,Low,Neutral,kanglish,Kalyan Nagar,
+244,"Street light is on during the day and wasting power in JP Nagar. Very urgent, kindly act today. Worst service, nobody cares.",Street Lighting,High,Negative,english,JP Nagar,
+245,"market hattira satta praani mattu kasa kuliyutide, Indiranagar 1st Stage. dayavittu gamana kodi.",Waste Collection,Medium,Negative,kanglish,Indiranagar 1st Stage,
+246,"Ulsoor nalli raste tumba haalaagide, gundigalu ive. dayavittu bega sari maadi. yaarigu kalaji illa, bejaar aagide.",Roads and Potholes,Medium,Negative,kanglish,Ulsoor,
+247,"Marathahalli ನಲ್ಲಿ street light ಕಳೆದ ವಾರದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Street Lighting,High,Negative,kannada_script,Marathahalli,ಕಳೆದ ವಾರದಿಂದ
+248,"hospital hattira dari deepa uriyalla ninne inda, Mysore Road. dayavittu bega sari maadi. tumba kasta aagide.",Street Lighting,Medium,Negative,kanglish,Mysore Road,ninne inda
+249,"stret light is on durnig the day and wasting poer in jayanagar 4th block. accident can happen any time. worst serviec, nobody cares. plz",Street Lighting,High,Negative,english,Jayanagar 4th Block,
+250,"school hattira main pipe odediddhe, neeru sorutide, Kalyan Nagra. tumba hurry illa, nodi. tumba kopa barutt.",Water Supply,Low,Negative,kanglish,Kalyan Nagar,
+251,Garbage has not been collected in Kalyan Nagar. Please do the needful. Grateful for your help.,Waste Collection,Medium,Neutral,english,Kalyan Nagar,
+252,"Whitefield nalli kasa sudtidare, tumba hogeyide. dayavittu gamana kodi.",Waste Collection,Medium,Negative,kanglish,Whitefield,
+253,streetlight pole near temple btm layout keeps flcikering and then goes off emergency ivattu ne sari maadi !!,Street Lighting,High,Negative,english,BTM Layout,
+254,the garbage truck did not come to marathahalli waste is piling up just informing the department kindly acknowledge,Waste Collection,Low,Neutral,english,Marathahalli,
+255,dead animal and rotting garbage near school in hebbal kindly look into it soon regards,Waste Collection,Medium,Neutral,english,Hebbal,
+256,"raste pakka kasa haakidare school hattira jp nagar, nayigalu ellaa kade. thakshana sari maadi. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,JP Nagar,
+257,"ನಮ್ಮ ಏರಿಯಾ Sadashivanagar ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರು ಕೊಳಕಾಗಿದೆ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Water Supply,High,Negative,kannada_script,Sadashivanagar,
+258,street lights are not working on the road near market in malleshwaram request you to take action,Street Lighting,Medium,Negative,english,Malleshwaram,
+259,"tap nalli neeru pressure tumba kadime ide kaledha 3 dinagalinda, mg road. dayavittu bega sari maadi. ...",Water Supply,Medium,Neutral,kanglish,MG Road,kaledha 3 dinagalinda
+260,"Kambada deepa mri hogide Jayanagar 4th Block alli, tondare ide. tumba urgent ide, bega action togoli. tumba kasta aagide.",Street Lighting,High,Negative,kanglish,Jayanagar 4th Block,
+261,"Road cut not repaired near hospital in Malleshwaram, please fix.",Roads and Potholes,Medium,Neutral,hard,Malleshwaram,for 5 days
+262,"Kambada deepa muri hogide Peenya alli, tondare ide. tumba hurry illa, nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,Peenya,
+263,"Dark stretch near market, Electronic City. All d lites are off, women feel usafe. Kindly look into tis when you get time. Grateful for your help.",Street Lighting,Low,Neutral,english,Electronic City,
+264,"Drain cover broken on the road at Yelhaanka, a deep hole.",Roads and Potholes,High,Negative,hard,Yelahanka,since last week
+265,"Hagalu kooda street light uriyuttide Peenya nalli, current waste aagtide. emergency, ivattu ne sari maadi.",Street Lighting,High,Negative,kanglish,Peenya,
+266,No door to door waste collection in our street at JP Nagar. Kindly look into it soon.,Waste Collection,Medium,Neutral,english,JP Nagar,
+267,"ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಬೀದಿ ದೀಪಗಳು ಹಾಳಾಗಿವೆ, Jayanagar 4th Block ಪ್ರದೇಶದಲ್ಲಿ ಎಲ್ಲೆಡೆ ಕತ್ತಲೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Street Lighting,Medium,Negative,kannada_script,Jayanagar 4th Block,
+268,"bus stop hattira satta praani mattu kasa kuliyutide, Banashankari. tumba hurry illa, nodi.",Waste Collection,Low,Neutral,kanglish,Banashankari,
+269,Domlur ನಲ್ಲಿ ನಿನ್ನೆಯಿಂದ ನೀರು ಬರುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಧನ್ಯವಾದ.,Water Supply,Medium,Neutral,kannada_script,Domlur,ನಿನ್ನೆಯಿಂದ
+270,pipeline odedu raste ella neeru metro sattion hattira malleshwaram dayavittu bega sari maadi,Water Supply,Medium,Neutral,kanglish,Malleshwaram,
+271,"Borewell neeru kalusha aagide HSR Layout nalli, kudiyoke aagalla. samaya sikkaaa nodi.",Water Supply,Low,Neutral,kanglish,HSR Layout,
+272,"Trash piled up beside the drain near temple, Ulsoor. Kindly look into it soon. Grateful for your help.",Waste Collection,Medium,Neutral,english,Ulsoor,
+273,"Basavanagudi alli bus stop hatira kambada deepa kettide, ella kade kattale. makkalige tondare aagutte, urgnt. tumba kasta aagide.",Street Lighting,High,Negative,kanglish,Basavanagudi,
+274,"Kengeri nalli tar raste poorti hogide, hosa asphalt haaki. samaya sikkaaga ndi.",Roads and Potholes,Low,Neutral,kanglish,Kengeri,
+275,"Cable haakalu raste agediddare, 5 dinagalinda sari maadilla, Basavanagudi. tumba hurry illa, nodi. gamanisi, thanks.",Roads and Potholes,Low,Neutral,kanglish,Basavanagudi,5 dinagalinda
+276,"ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಬೀದಿ ದೀಪಗಳು ಹಾಳಾಗಿವೆ, BTM Layout ಪ್ರದೇಶದಲ್ಲಿ ಎಲ್ಲೆಡೆ ಕತ್ತಲೆ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಧನ್ಯವಾದಗಳು.",Street Lighting,Low,Neutral,kannada_script,BTM Layout,
+277,"Raste kelasa ardhakke bittidare bus stop hattira Electronic City nalli, jalli kallu ellaa kade. dayavittu gamana kodi.",Roads and Potholes,Medium,Negative,kanglish,Electronic City,
+278,"Garbage dump near the drain at Sadashivanagar, plz clean.",Waste Collection,Medium,Neutral,hard,Sadashivanagar,since yesterday
+279,there is a huge pothol on d rd near rajajinagar this is an emergency! worst service nobody cares,Roads and Potholes,High,Negative,english,Rajajinagar,
+280,"raste kelasa ardhakke bittidare park hattira jp nagar nlali, jalli kallu ellaa kade. action togolli please.",Roads and Potholes,Medium,Neutral,kanglish,JP Nagar,
+281,"Main watr pipe is leaking near temple in Indiranagar 1st Stage, water is being watsed. Accident can hppen any time.",Water Supply,High,Negative,english,Indiranagar 1st Stage,
+282,"Garbage dump near the drain at MG Road, plz clean.",Waste Collection,Medium,Neutral,hard,MG Road,since Tuesday
+283,"Dark stretch near bus stop, Domlur. All the lights are off, women feel unsafe. tumba hurry illa, noi. Thanks in advance.",Street Lighting,Low,Neutral,english,Domlur,
+284,"Cauvery water has not been supplied to Whitefield. No rush, but please see to it. Wrost service, nobody cares.",Water Supply,Low,Negative,english,Whitefield,
+285,Water is not coming in the taps at Hebbal. Request you to take action. Thank you.,Water Supply,Medium,Neutral,english,Hebbal,
+286,"d garbage truck did nt come to JP Nagar, wase is piling up. Kindly look into it soon.",Waste Collection,Medium,Negative,english,JP Nagar,
+287,"hospital hattira speed breaker odedide, apaayakaari, KR Puram. thakshnaa sari maaid. idu sahisoke aagalla.",Roads and Potholes,High,Negative,kanglish,KR Puram,
+288,"Hebbal nalli yaavude suchnae illade water cut maadidru Friday inda. tumba urgent ide, bega action togoli. tumba kopa bautte.",Water Supply,High,Negative,kanglish,Hebbal,Friday inda
+289,"basavanagudi nlali kasdaa raasi teigyiri, sanjigalu hechchaguttive. tubma hurry illa, nodi. gamanisi, thanks. ...",Waste Collection,Low,Neutral,kanglish,Basavanagudi,
+290,there is a huge pohtole on the road near kaylan nagar please do d neefdul totally unacceptable!,Roads and Potholes,Medium,Negative,english,Kalyan Nagar,
+291,"Ola kasa mattu odd kasa mix maadtidaare Hebbal nalli. aksidenta aagbahudu, dayavittu bega maadi. nimma department yenu maaduttide?",Waste Collection,High,Negative,kanglish,Hebbal,
+292,Domlur ಹತ್ತಿರ ರಸ್ತೆಯಲ್ಲಿ ದೊಡ್ಡ ಗುಂಡಿ ಇದೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.,Roads and Potholes,Medium,Negative,kannada_script,Domlur,
+293,"waste is dumped on the roadside near school, basavanagudi, stray dogs everwyhere. children and elderly people are suffering. this is very frustrating. pls",Waste Collection,High,Negative,english,Basavanagudi,
+294,"No door to dor waste collection in our stret at Vijayanagar. tumba hurry illa, nodi. Thank you.",Waste Collection,Low,Neutral,english,Vijayanagar,
+295,"Neru supply ila Friday inda, tanker ge duddu kodtidini, Hebbal. dayavittu gamana kodi. dhanyavadagalu.",Water Supply,Medium,Neutral,kanglish,Hebbal,Friday inda
+296,"HSR Layout ನಲ್ಲಿ street light ಕಳೆದ ವಾರದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Street Lighting,High,Negative,kannada_script,HSR Layout,ಕಳೆದ ವಾರದಿಂದ
+297,The light near Sadashivanagar is out. It is a street light not a traffic light.,Street Lighting,Medium,Negative,hard,Sadashivanagar,for a week now
+298,main water pipe is leaking near bus stop in bannerghatta rd watr is being wasted action togolli please totally unacceptable!,Water Supply,Medium,Negative,english,Bannerghatta Road,
+299,Garbage has nt been collected in Mysore rd since last week. plz resolve this at the earliest. Regards.,Waste Collection,Medium,Neutral,english,Mysore Road,since last week
+300,"Trash piled up beside the drain near temple, BTM Layout. Request you to take action. Totally unacceptable!",Waste Collection,Medium,Negative,english,BTM Layout,
+301,the garbage truck did not come to marathahalli waste is piling up no rush but please see to it reagrds !!,Waste Collection,Low,Neutral,english,Marathahalli,
+302,kengeri nalli kasa tegiyalla. dayavittu gamana kodi. plz,Waste Collection,Medium,Negative,kanglish,Kengeri,
+303,"Male neeru gndi nalli tumbide, JP Nagar main road. dyavittu gamana kodi. gamanisi, thank.",Roads and Potholes,Medium,Neutral,kanglish,JP Nagar,
+304,Low water pressure in our apartment at HSR Layout for 5 das. Kindly look into this when you get time. Grateful for ur help.,Water Supply,Low,Neutral,english,HSR Layout,for 5 days
+305,"Hennur nalli tar raste poorti hogide, hosa asphalt haaki. action togolli please. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,Medium,Negative,kanglish,Hennur,
+306,"Drain cover broken on the road at Vijayanagar, a deep hole.",Roads and Potholes,High,Negative,hard,Vijayanagar,from Friday
+307,kambada deepa muri hogide kengeri alli tondare ide gamanakke tandidini ndi thanks,Street Lighting,Low,Neutral,kanglish,Kengeri,
+308,"Garbage is burning in d open at Shivajinagar, lots of smoke. No rush, but please see to it.",Waste Collection,Low,Neutral,english,Shivajinagar,
+309,"temple hattira dari deepa uriyalla Tuesday inda, HSR Layout. dayavittu bega sari maadi. dhanyavaada.",Street Lighting,Medium,Neutral,kanglish,HSR Layout,Tuesday inda
+310,"JP Nagar nalli tar raste poorti hogide, hosa asphalt haaki. dayavittu gmaana kodi. thanks.",Roads and Potholes,Medium,Neutral,kanglish,JP Nagar,
+311,"Raatri HSR Layout nalli tumba kattale, stret lite kharaabu aagide. action togolli please. gamanisi, thanks.",Street Lighting,Medium,Neutral,kanglish,HSR Layout,
+312,"Borewell neeru kalusha aagide Kengeri nalli, kudiyoke aagalla. tumba urgent ide, bega action togoli. nimma department yenu maaduttide?",Water Supply,High,Negative,kanglish,Kengeri,
+313,"ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಬೀದಿ ದೀಪಗಳು ಹಾಳಾಗಿವೆ, Vijayanagar ಪ್ರದೇಶದಲ್ಲಿ ಎಲ್ಲೆಡೆ ಕತ್ತಲೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.",Street Lighting,Medium,Negative,kannada_script,Vijayanagar,
+314,"Hennur ಹತ್ತಿರ ಕಸದ ರಾಶಿ ಬಿದ್ದಿದೆ, ತುಂಬಾ ವಾಸನೆ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Waste Collection,High,Negative,kannada_script,Hennur,
+315,"Namma street nalli ligt barthilla Sunday inda, Shivajinagar. thakshana sai maadi. nimma department yenu maaduttide?",Street Lighting,High,Negative,kanglish,Shivajinagar,Sunday inda
+316,We are forced to buy tanker water as the tap is dry from Friday in Whitefield. Please check when possible. Kindly acknowledge.,Water Supply,Low,Neutral,english,Whitefield,from Friday
+317,watr is nt coming in d taps at jayanagar 4th block sinc last week samaya sikkaaga nodi grateful for ur help,Water Supply,Low,Neutral,english,Jayanagar 4th Block,since last week
+318,"Kasa vilebari vaahana Basavanagudi ge baralilla Tuesday inda, kasa raasi aagide. gamanakke tandidini, nodi.",Waste Collection,Low,Neutral,kanglish,Basavanagudi,Tuesday inda
+319,please replace the bulb of d street light at hebbal it is off please resolve this at the earliest garteful for your help,Street Lighting,Medium,Neutral,english,Hebbal,
+320,Broken footpath and uneven road near market in MG Road. Kindly look into this when you get time.,Roads and Potholes,Low,Neutral,english,MG Road,
+321,d light near BTM Layout is out. It is a street light not a traffic light.,Street Lighting,Medium,Negative,hard,BTM Layout,since Tuesday
+322,Marathahalli nalli kasa Tuesday inda tegiyalla. dayavittu gamana kodi.,Waste Collection,Medium,Negative,kanglish,Marathahalli,Tuesday inda
+323,No stret lights in our lane at Jayanagar 4th Block sinc Tuesday. It is pitch dark at night. Reqest you to take action. Totally unacceptable!,Street Lighting,Medium,Negative,english,Jayanagar 4th Block,since Tuesday
+324,"Yelahanka nlli yaavude scuhane illade watr cut maadidru Tuesday inda. makkalige tondare aagutte, urgent.",Water Supply,High,Negative,kanglish,Yelahanka,Tuesday inda
+325,"Raste kelasa ardhake bittidare temple hatitra Koramangala nalli, jalli klalu ellaa kade. dayavittu bega sari maadi.",Roads and Potholes,Medium,Negative,kanglish,Koramangala,
+326,"Marathahalli nalli kasada raasi tegiyiri, sanjigalu hechchaguttive. samaya sikkaaga nodi. thanks.",Waste Collection,Low,Neutral,kanglish,Marathahalli,
+327,"Whitefield nalli yaavude suchane illade water cut maadidru 5 dinagalinad. tumba hurry illa, nodi.",Water Supply,Low,Negative,kanglish,Whitefield,5 dinagalinda
+328,kasa vilebari vaahana peenya ge baralilla ondu vaarada inda kasa raasi aagide aksidenta aagbahudu dayavittu bega maadi,Waste Collection,High,Negative,kanglish,Peenya,ondu vaarada inda
+329,"school httira main pipe odediddhe, neeru sorutide, KR Puram. dayavittu gamana kodi. tumba kasta aagide.",Water Supply,Medium,Negative,kanglish,KR Puram,
+330,"Raatri Ulsoor nalli tumba kattale, street light kharaabu aagide. samaya sikkaaga nodi. gamanisi, thanks.",Street Lighting,Low,Neutral,kanglish,Ulsoor,
+331,"Koramangala ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಸೋಮವಾರದಿಂದ ಹಾಗೆಯೇ ಇವೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ.",Roads and Potholes,Medium,Neutral,kannada_script,Koramangala,ಸೋಮವಾರದಿಂದ
+332,"HSR Layout ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Water Supply,High,Negative,kannada_script,HSR Layout,
+333,Low water pressure in our apartment at Yelahanka. Kindly look into it soon. We are fed up with this negligence.,Water Supply,Medium,Negative,english,Yelahanka,
+334,"Malleshwaram ಹತ್ತಿರ ಕಸದ ರಾಶಿ ಬಿದ್ದಿದೆ, ತುಂಬಾ ವಾಸನೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು.",Waste Collection,Medium,Neutral,kannada_script,Malleshwaram,
+335,"Bannerghatta rd nali yaavude suchane illade watr cut maadidru ondu vaarda inda. thakshana sari maadi. yaarigu kaalji illa, bejaar aagide.",Water Supply,High,Negative,kanglish,Bannerghatta Road,ondu vaarada inda
+336,hsr layut nalli kasada raasi tegiyiri sanjigalu hechchaguttive gamanakke tandidini nodi dhanyavaada,Waste Collection,Low,Neutral,kanglish,HSR Layout,
+337,"Pipeline burst near metro station, Ulsoor. Road is flooded with water. Please do the needful. Shame on the department.",Water Supply,Medium,Negative,english,Ulsoor,
+338,deep pohole near market in yelahanka two-wheelers are slipping immediate action needed this is very frustrating,Roads and Potholes,High,Negative,english,Yelahanka,
+339,"Koramangala nalli kasa sudtidare, tumba hogeyide. thakshana sari maadi. tumba kasta aagide.",Waste Collection,High,Negative,kanglish,Koramangala,
+340,"Speed breaker near school at Koramangala is broken and dangerous. It is unsafe, resolve ASAP. This is very frustrating.",Roads and Potholes,High,Negative,english,Koramangala,
+341,chaduru hattira kasa tumbide metro sattion hattira mysore road tumba hurry illa nodi gamanisi thanks pls,Waste Collection,Low,Neutral,kanglish,Mysore Road,
+342,the rd at yelahanka is bdly damaged and full of potholes for the last 3 days please resolve this at the earliest regard,Roads and Potholes,Medium,Neutral,english,Yelahanka,for the last 3 days
+343,Malleshwaram ನಲ್ಲಿ ಮಂಗಳವಾರದಿಂದ ನೀರು ಬರುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಧನ್ಯವಾದ.,Water Supply,Medium,Neutral,kannada_script,Malleshwaram,ಮಂಗಳವಾರದಿಂದ
+344,garbage is burning in the open at jp nagra lots of smoke it is unsafe resolve asap totally unacceptable! ...,Waste Collection,High,Negative,english,JP Nagar,
+345,vijayanagar nalli kasa sudtidare tumba hogeyide action togolli please thakns,Waste Collection,Medium,Neutral,kanglish,Vijayanagar,
+346,"Namma street nalli light barthilla kaledha vaaradinda, Yelahanka. emergency, ivattu ne sari maadi.",Street Lighting,High,Neutral,kanglish,Yelahanka,kaledha vaaradinda
+347,Mysore Road nalli neeru barthilla. samaya sikkaaga nodi. thanks.,Water Supply,Low,Neutral,kanglish,Mysore Road,
+348,yelahanka nalli kasada raasi tegiyiri sanjigalu hechchaguttive aksidenta aagbahudu dayavittu bega maaid tumba kasta aagide,Waste Collection,High,Negative,kanglish,Yelahanka,
+349,The light on d main rd at Indiranagar 1st Stage is fused. Request you to take action. Grtaeful for ur hlp.,Street Lighting,Medium,Neutral,english,Indiranagar 1st Stage,
+350,"Peenya ರಸ್ತೆಯಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ಇಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Roads and Potholes,High,Negative,kannada_script,Peenya,
+351,potholes filled with rainwater on d main road at yelahanka. action togolli plz. thank you. plz,Roads and Potholes,Medium,Neutral,english,Yelahanka,
+352,"ನಮ್ಮ ಏರಿಯಾ Basavanagudi ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರು ಕೊಳಕಾಗಿದೆ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Water Supply,High,Negative,kannada_script,Basavanagudi,
+353,"there is a huge pothole on the road near btm layout. it is unsfe, resolve asap. very disappointed.",Roads and Potholes,High,Negative,english,BTM Layout,
+354,"the tar road in domlur has completely come off, plz re-asphalt. reqeust you to take action. thank you.",Roads and Potholes,Medium,Neutral,english,Domlur,
+355,Broken footpath and uneven road near market in Maratahhalli. dayavittu gamana kodi. Tahnks in advance.,Roads and Potholes,Medium,Neutral,english,Marathahalli,
+356,"jp nagar nalli kasa sudtidare, tumba hogeyide. tumba hurry illa, nodi. thanks.",Waste Collection,Low,Neutral,kanglish,JP Nagar,
+357,potholes filled wid rainwater on the main rd at mg rd plz do the needful regards,Roads and Potholes,Medium,Neutral,english,MG Road,
+358,"overflowing dustbin near shcool in jp nagar, terrible smell. dayavittu gamana kodi. this is very frustrating. plz",Waste Collection,Medium,Negative,english,JP Nagar,
+359,please replace d bulb of the street light at peenya it is off for a week now please fix it urgently grateful for ur help asap,Street Lighting,High,Neutral,english,Peenya,for a week now
+360,"Road repair work left incomplete near school, Rajajinagar, loose gravel everywhere. Kindly look into this when you get time. We are fed up with this negligence.",Roads and Potholes,Low,Negative,english,Rajajinagar,
+361,ನಮ್ಮ ಏರಿಯಾ Yelahanka ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರು ಕೊಳಕಾಗಿದೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.,Water Supply,Medium,Negative,kannada_script,Yelahanka,
+362,"hagalu kooda stret light uriyuttide jp nagar nalli, current waste aagtide. dayavittu bega sari maadi. dhanyavadagalu.",Street Lighting,Medium,Neutral,kanglish,JP Nagar,
+363,"Please replce the bulb of the stret light at Rajajinagar, it is off sinc last wee. Childern and elderly people are suffering. Worst service, nobody cares.",Street Lighting,High,Negative,english,Rajajinagar,since last week
+364,the light on the main rd at domlur is fused for two weeks action togolli please kindly acknowledge,Street Lighting,Medium,Neutral,english,Domlur,for two weeks
+365,"Male neeru gudni nali tumbide, Domlur main roa. action togolli plz. nimma department yenu maaduttide?",Roads and Potholes,Medium,Negative,kanglish,Domlur,
+366,"d lamp post outside my house in hennur is dead since sunday, whole stret is dark. just informing the department. regards.",Street Lighting,Low,Neutral,english,Hennur,since Sunday
+367,"Please replae the bulb of the stret light at MG rd, it is off since last week. Immediate action needed.",Street Lighting,High,Neutral,english,MG Road,since last week
+368,the road at bannerghatta rd is badly damaged and full of potholes dayavtitu gamana kodi regards,Roads and Potholes,Medium,Neutral,english,Bannerghatta Road,
+369,"Ola kasa mtatu odd kasa mix madtidaare Peenya nalli. tumba hurry illa, nodi. dhanyavaada.",Waste Collection,Low,Neutral,kanglish,Peenya,
+370,"basavanagudi alli prk hattira kambada deepa kettide, ella kade kattale. dayavittu bega sari maadi. idu sahisoke aagalla.",Street Lighting,Medium,Negative,kanglish,Basavanagudi,
+371,We are forced to buy tanker watr as the tap is dry in Marathahalli. plz do the nedeful. Kindly acknowledge.,Water Supply,Medium,Neutral,english,Marathahalli,
+372,borewell neeru kalusha aagide shivajinagar nalli kudiyoke aagalla makkalige tonadre aagutte urgent nimma department yenu maaduttide?,Water Supply,High,Negative,kanglish,Shivajinagar,
+373,stret ligths are not working on the road near metro station in hsr lyaout accident can happen any time this is very frustrating,Street Lighting,High,Negative,english,HSR Layout,
+374,Ded animal and rotting garbge near bus stop in Electronic City. dayavittu bega sari maadi. Shame on d departent.,Waste Collection,Medium,Negative,english,Electronic City,
+375,there is no water supply in koramangala samaya sikkaaga nodi very disappointed,Water Supply,Low,Negative,english,Koramangala,
+376,low water pressure in our apartment at indiranagar 1st stage from friday. thakshana sari maadi. vey disappointed. pls,Water Supply,High,Negative,english,Indiranagar 1st Stage,from Friday
+377,"The lamp post outside my house in KR Puram is dead since last week, whole street is dark. It is unsafe, resolve ASAP. Totally unacceptable!",Street Lighting,High,Negative,english,KR Puram,since last week
+378,drinking wtaer is dirty and smelly in bannerghatta rd tap watr is brownish please reslve this at the earliest,Water Supply,Medium,Negative,english,Bannerghatta Road,
+379,btm lyaout nalli kasada raasi tegiyiri sanjigalu hechchaguttive gamanakke tandidini nodi dhanyavadagalu plz,Waste Collection,Low,Neutral,kanglish,BTM Layout,
+380,"Kengeri nalli kasa Friday inda tegiyalla. emergency, ivattu ne sari maadi. yaarigu kaalji illa, bejaar aagide.",Waste Collection,High,Negative,kanglish,Kengeri,Friday inda
+381,malleshwaram bus stop hattira lights elladu off hengasarige suraksha illa tumba hurry ila nodi,Street Lighting,Low,Neutral,kanglish,Malleshwaram,
+382,d garbage truck did not come to mg road waste is piling up gamanakke tandidini nodi thank you,Waste Collection,Low,Neutral,english,MG Road,
+383,"Namma street nlali light barthilla 5 dinagalinda, Peenya. action togolli please.",Street Lighting,Medium,Neutral,kanglish,Peenya,5 dinagalinda
+384,potholes filled wid rainwater on the main road at ulsoor. this is an emergency!,Roads and Potholes,High,Negative,english,Ulsoor,
+385,"waste is dumped on d roadside near park, mysore rd, stray dogs everywhere. jut informing the department. grateful for your help.",Waste Collection,Low,Neutral,english,Mysore Road,
+386,garbge has not been colletced in Peenya. dayavittu gamana kodi. Shame on d department.,Waste Collection,Medium,Negative,english,Peenya,
+387,Jayanagar 4th Block ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ.,Water Supply,Low,Neutral,kannada_script,Jayanagar 4th Block,
+388,malleshwram alli kudiyuva neeru kolachaagide vaasane barutte samaya sikkaaga nodi dhanyavadagalu,Water Supply,Low,Neutral,kanglish,Malleshwaram,
+389,"Neeru supply illa ondu vaarada inda, tanker ge duddu kodtidini, Yelahanka. gamanakke tandidini, nodi. dhanyavaada.",Water Supply,Low,Neutral,kanglish,Yelahanka,ondu vaarada inda
+390,"HSR Layout nalli neeru barthilla. makkalige tondare aagutte, uregnt. tubma kopa barutte.",Water Supply,High,Negative,kanglish,HSR Layout,
+391,the street light near jp ngaar has nt worked it is unsafe resolve asap,Street Lighting,High,Negative,english,JP Nagar,
+392,"Jayanagar 4th Block ರಸ್ತೆಯಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ಇಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.",Roads and Potholes,High,Negative,kannada_script,Jayanagar 4th Block,
+393,nereu supply illa tuesday inda tanker ge duddu kodtidini jayanagar 4th block aksidenta aagbaudu dayavittu bega maadi dhanyavaada plz,Water Supply,High,Neutral,kanglish,Jayanagar 4th Block,Tuesday inda
+394,indiranagar 1st stage temple hattira lites elladu off hengasarige suraksha illa thakshana sari maadi,Street Lighting,High,Neutral,kanglish,Indiranagar 1st Stage,
+395,"Namma area Mysore Road nalli neeru baralla, tumba tondare. dayavittu bega sari maadi. gamanisi, thanks.",Water Supply,Medium,Neutral,kanglish,Mysore Road,
+396,borewell neeru kalusha aagie basavanagudi nalli kudiyoke aagalla makkalige tondare aautte urgnt,Water Supply,High,Negative,kanglish,Basavanagudi,
+397,"Overflowing dustbin near school in Jayanagar 4th Block, terrible smell. Kindly look into it soon. Grateful for your help.",Waste Collection,Medium,Neutral,english,Jayanagar 4th Block,
+398,Ulsoor nalli kasa Sunday inda tegiyalla. dayavittu bega sari maadi.,Waste Collection,Medium,Neutral,kanglish,Ulsoor,Sunday inda
+399,ulsoor nalli neeru barthilla tuesday inda samaya sikkaaga nodi plz,Water Supply,Low,Neutral,kanglish,Ulsoor,Tuesday inda
+400,d light near Mysore Road is out. It is a sreet light nt a traffic light.,Street Lighting,Medium,Negative,hard,Mysore Road,since Monday
+401,"Dark stretch near bus stop, MG Road. All d lights are off, women feel unsafe. emergency, ivattu ne sari maadi. Shame on the department.",Street Lighting,High,Negative,english,MG Road,
+402,water is not coming in d taps at peenya for a week now kindly look ito this when you get time pls,Water Supply,Low,Neutral,english,Peenya,for a week now
+403,broken footpath and uneven road near school in vijayanagar please reslove this at the earliest totally unacceptable!,Roads and Potholes,Medium,Negative,english,Vijayanagar,
+404,hennur school hattira lights elladu off hengasarige suraskha illa action togolli plz,Street Lighting,Medium,Neutral,kanglish,Hennur,
+405,"Indiranagar 1st Stae nalli mahnole muchcala illa, raste mle gundi. makkalige tondare aagutte, urgent. idu sahisoke aagalla.",Roads and Potholes,High,Negative,kanglish,Indiranagar 1st Stage,
+406,school hattira speed brekaer odedide apaayakaari peenya dayavittu bega sari maadi,Roads and Potholes,Medium,Negative,kanglish,Peenya,
+407,"Male neeru gundi nalli tumbide, Shivajinagar main road. emergency, ivattu ne sari maadi.",Roads and Potholes,High,Negative,kanglish,Shivajinagar,
+408,dry waste and wet waste are being mixed by d collectors at mg road kindly lok into it soon grateful for your help,Waste Collection,Medium,Neutral,english,MG Road,
+409,raatri ulsoor nlali tumba kattale stret light kharaabu aaigde dayavittu gamana kodi asap,Street Lighting,Medium,Neutral,kanglish,Ulsoor,
+410,Peenya nalli neeru barthilla. dayavittu bega sari maadi. tumba kasta aaide.,Water Supply,Medium,Negative,kanglish,Peenya,
+411,Low water pressure in our apartment at Vijayanagar. Please check when posisble.,Water Supply,Low,Neutral,english,Vijayanagar,
+412,d road at Marathahalli is badly damaged and full of poholes since Monday. Kindly look into it soon. This is very frustrating.,Roads and Potholes,Medium,Negative,english,Marathahalli,since Monday
+413,"Chaduru hattira kasa tumbide, school hattira Domlur. emergency, ivattu ne sari maaid.",Waste Collection,High,Negative,kanglish,Domlur,
+414,"Namma street nalli lite barthilla 5 dinagalinda, Mysore Road. tumba hurry illa, nodi. thanks.",Street Lighting,Low,Neutral,kanglish,Mysore Road,5 dinagalinda
+415,"Kalyan Nagar alli temple hattira kambada deepa kettide, ella kade kattale. tumba urgent ide, bega action togoli. tumba kopa barutte.",Street Lighting,High,Negative,kanglish,Kalyan Nagar,
+416,there is a huge pothol on the road near btm lyout accident can happen any time wosrt service nobody cars,Roads and Potholes,High,Negative,english,BTM Layout,
+417,"Male neeru gundi nalli tumbide, Vijayanagar main rd. action togolli please. yaairgu kaalji illa, bejaar aagied.",Roads and Potholes,Medium,Negative,kanglish,Vijayanagar,
+418,The road at Banashankari is badly damaged and full of potholes since yday. Please do the needful. Grateful for your help.,Roads and Potholes,Medium,Neutral,english,Banashankari,since yesterday
+419,"Whitefield ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಕಳೆದ ವಾರದಿಂದ ಹಾಗೆಯೇ ಇವೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಧನ್ಯವಾದಗಳು.",Roads and Potholes,Medium,Neutral,kannada_script,Whitefield,ಕಳೆದ ವಾರದಿಂದ
+420,Street light is on during the day and wasting power in Shivajinagar. Just informing the department. Thanks in advance.,Street Lighting,Low,Neutral,english,Shivajinagar,
+421,"Overflowing dustbin near school in Marathahalli, terrible smell. aksidenta aagbahudu, dayavittu bega maadi. Very disappointed.",Waste Collection,High,Negative,english,Marathahalli,
+422,"koramanglaa nalli raste tumba haalaagide, gundigalu ive ninne inda. dayavittu gamana kodi.",Roads and Potholes,Medium,Negative,kanglish,Koramangala,ninne inda
+423,"MG Road alli school hatitra kambada deepa kettide, ella kade kattale. samaya sikkaaga nodi.",Street Lighting,Low,Neutral,kanglish,MG Road,
+424,Grabage has not been collectd in Koramangala. Kindly look into it soon.,Waste Collection,Medium,Neutral,english,Koramangala,
+425,sadashivanagar alli kudiyuva neeru kolachaagide vaasane barutte dayavittu bega sari maaid dhanyavaada,Water Supply,Medium,Neutral,kanglish,Sadashivanagar,
+426,"Yelahanka park hattira lights elladu off, hengasarige suraksha illa. tumba hurry illa, nodi.",Street Lighting,Low,Negative,kanglish,Yelahanka,
+427,The road at BTM Layout is badly damaged and full of potholes. Please resolve this at the earliest. Thank you.,Roads and Potholes,Medium,Neutral,english,BTM Layout,
+428,The light on the main road at JP Nagar is fused from Friday. Just informing the department. Grateful for your help.,Street Lighting,Low,Neutral,english,JP Nagar,from Friday
+429,contaminated water cmoing from d borewell tap at hebbal request you to take action thanks in advanec,Water Supply,Medium,Neutral,english,Hebbal,
+430,"Shivajinagar nalli raste tumba haalaagide, gnudigalu ive. dayavittu bega sari maadi.",Roads and Potholes,Medium,Neutral,kanglish,Shivajinagar,
+431,"Raste kelaa ardhakke bittidare metro station hattira Bannerghatta rd nalli, jalli kallu ellaa kade. dayavittu gamana kodi. dhanyavadagalu.",Roads and Potholes,Medium,Neutral,kanglish,Bannerghatta Road,
+432,banashankari alli kudiyuva neeru kolachaagide vaasane barutte ation togolli plz dhanyavadagalu,Water Supply,Medium,Neutral,kanglish,Banashankari,
+433,"Male neeru gundi nalli tumbide, Rajajinagar man road. action togolli please. thanks.",Roads and Potholes,Medium,Neutral,kanglish,Rajajinagar,
+434,"metro station hattira speed breaker oddeide, apaayakaari, Indianagar 1st Stage. tumba hury illa, nodi. dhanyavaada.",Roads and Potholes,Low,Neutral,kanglish,Indiranagar 1st Stage,
+435,"Hgaalu kooda stret lgiht uriyuttide Hebbal nalli, current waste aagtide. aksidenta aagbahudu, dayavittu bega maadi. tumba kopa barutte.",Street Lighting,High,Negative,kanglish,Hebbal,
+436,Ola kasa mattu odd kasa mix maadtidaare Shivajinagar nalli. action togolli plz. thanks.,Waste Collection,Medium,Neutral,kanglish,Shivajinagar,
+437,"Waste is dumped on the roadside near school, HSR Layout, stray dogs everywhere. Please check when possible. Thank you.",Waste Collection,Low,Neutral,english,HSR Layout,
+438,Bannerghatta Road nalli neeru barthilla. dayavittu bega sari maadi.,Water Supply,Medium,Negative,kanglish,Bannerghatta Road,
+439,"We are forced to buy tanker watr as the tap is dry from Friday in Banashankari. Very urgent, kindly act toda. Shame on the department.",Water Supply,High,Negative,english,Banashankari,from Friday
+440,"Trash piled up beside the drain near school, Yelahanka. Immediate action needed. We are fed up with this negligence.",Waste Collection,High,Negative,english,Yelahanka,
+441,water cut in indrianagar 1st stage without any notice since sunday please do d needful,Water Supply,Medium,Neutral,english,Indiranagar 1st Stage,since Sunday
+442,low watr pressure in our apartment at malleshwaram. please resolve this at d earliest. regards.,Water Supply,Medium,Neutral,english,Malleshwaram,
+443,"bus stop hattira aala gundi ide, bike gale jaarutive, KR Puram. dayavittu gamana kodi. thanks.",Roads and Potholes,Medium,Neutral,kanglish,KR Puram,
+444,Water is not coming in the taps at Marathahalli since Sunday. Request you to take action. Regards.,Water Supply,Medium,Neutral,english,Marathahalli,since Sunday
+445,"kambada deepa muri hogide banashankari alli, tondae ide. aksidenta aagbahudu, dayavittu bega maadi. idu shaisoke aagalla. !!",Street Lighting,High,Negative,kanglish,Banashankari,
+446,broken street lamp hanging dangerously near school in kr puram. kindly lok into this when you get tim.,Street Lighting,Low,Negative,english,KR Puram,
+447,Domlur ಹತ್ತಿರ ರಸ್ತೆಯಲ್ಲಿ ದೊಡ್ಡ ಗುಂಡಿ ಇದೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Roads and Potholes,Medium,Negative,kannada_script,Domlur,
+448,Peenya ಬಳಿ ಬೀದಿ ದೀಪ ಉರಿಯುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.,Street Lighting,Medium,Negative,kannada_script,Peenya,
+449,"Mysore Road ಹತ್ತಿರ ಕಸದ ರಾಶಿ ಬಿದ್ದಿದೆ, ತುಂಬಾ ವಾಸನೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Waste Collection,Medium,Negative,kannada_script,Mysore Road,
+450,calbe haakalu raste ageddidare kaledha 3 dinagalinda sari maadilla hebbal makkalige tondare aagutte urgent yaarigu kalaji illa bejaar aagide pls,Roads and Potholes,High,Negative,kanglish,Hebbal,kaledha 3 dinagalinda
+451,"raatri ulsoor nalli tumba kattale, street light kahraabu aagide. tumba ugrent ide, bega action togoli. yaarigu kaalji illa, bejar aagide.",Street Lighting,High,Negative,kanglish,Ulsoor,
+452,"Drain cover broken on d road at Koramangala, a deep hole.",Roads and Potholes,High,Negative,hard,Koramangala,since Sunday
+453,"malleshwaram nalli tar raste poorti hogide, hosa aspahlt haaki. action togolli please. dhanyavadagalu.",Roads and Potholes,Medium,Neutral,kanglish,Malleshwaram,
+454,"Koraamngala hattira street light kaledha vaaradinda uriyuttilla. tuma urgent ide, bega action togoli.",Street Lighting,High,Negative,kanglish,Koramangala,kaledha vaaradinda
+455,"KR Puram ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಹಾಗೆಯೇ ಇವೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ. ಧನ್ಯವಾದ.",Roads and Potholes,Low,Neutral,kannada_script,KR Puram,
+456,"Road repair work left incomplete near school, JP Nagra, loose gravel everywhere. plz resolve this at the earliest. Thank you.",Roads and Potholes,Medium,Neutral,english,JP Nagar,
+457,water is not coming in the taps at kalyan nagar thakshana sari maadi,Water Supply,High,Negative,english,Kalyan Nagar,
+458,"Namma area Kengeri nalli ninne inda neeru baralla, tumba tondare. tumba hurry illa, nodi.",Water Supply,Low,Neutral,kanglish,Kengeri,ninne inda
+459,"Dry waste and wet waste are being mixed by the collectors at Shivajinagar. It is unsafe, resolve ASAP. Totally unacceptable!",Waste Collection,High,Negative,english,Shivajinagar,
+460,the tar road in ulsoor has completely come off please re-asphalt no rush but please see to it thanks in advance,Roads and Potholes,Low,Neutral,english,Ulsoor,
+461,The light on the main rod at Vijayanagar is fused. dayavittu gamana kodi. Regards.,Street Lighting,Medium,Neutral,english,Vijayanagar,
+462,"nama street nalli lght barthilla ninne inda, kengeri. emergency, ivattu ne sari maadi. nimma department yenu maaduttide?",Street Lighting,High,Negative,kanglish,Kengeri,ninne inda
+463,Jayanagar 4th Block nalli neeru barthilla Monday inda. dayavittu gamana kodi. dhanyavadagalu.,Water Supply,Medium,Neutral,kanglish,Jayanagar 4th Block,Monday inda
+464,"We are forced to buy tanker water as the tap is dry for two weeks in Mallehswaram. Very urgnt, kindy act today.",Water Supply,High,Negative,english,Malleshwaram,for two weeks
+465,"Dead animal and rotting garbage near temple in Vijayanagar. It is unsafe, resolve ASAP. Totally unacceptable!",Waste Collection,High,Negative,english,Vijayanagar,
+466,kalyan nagar main rd nalli light fuse aagide makkalige tondare aagute urgent idu sahisoke aagalla,Street Lighting,High,Negative,kanglish,Kalyan Nagar,
+467,"Indiranagar 1st Stage ಬಳಿ ಬೀದಿ ದೀಪ ಎರಡು ವಾರಗಳಿಂದ ಉರಿಯುತ್ತಿಲ್ಲ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.",Street Lighting,High,Negative,kannada_script,Indiranagar 1st Stage,ಎರಡು ವಾರಗಳಿಂದ
+468,"Streetlight pole near metro station, Shivajinagar keeps flickering and then goes off. It is unsafe, reslve ASAP.",Street Lighting,High,Negative,english,Shivajinagar,
+469,Hennur ನಲ್ಲಿ ಕಸ ಮಂಗಳವಾರದಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಧನ್ಯವಾದಗಳು.,Waste Collection,Medium,Neutral,kannada_script,Hennur,ಮಂಗಳವಾರದಿಂದ
+470,stret lights are not working on d rd near park in Vijayanagar. action togolli please. Grateful for your help.,Street Lighting,Medium,Neutral,english,Vijayanagar,
+471,"Mysore Road nalli tar raste poorti hogide, hosa aspahlt haaki. dayavittu gmaana kodi.",Roads and Potholes,Medium,Negative,kanglish,Mysore Road,
+472,"Nmama street nalli lite barthilla ninne inda, Basavanagudi. makkalige tondare aagutte, urgnt. tumba kopa barutte.",Street Lighting,High,Negative,kanglish,Basavanagudi,ninne inda
+473,"market hattira aala gundi ide, bike gale jaarutive, ulsoor. gamanakke tandidini, nodi. dhanyavadagalu. !!",Roads and Potholes,Low,Neutral,kanglish,Ulsoor,
+474,"The lamp post outside my house in Vijayanagar is dead, whole street is dark. dayvaittu gaamna koi.",Street Lighting,Medium,Negative,english,Vijayanagar,
+475,There is no water suply in Kengeri. Kindly look into tis when you get time. Thanks in advance.,Water Supply,Low,Neutral,english,Kengeri,
+476,"Domlur nalli street lamp aarsi aarsi uriyutte, sari maadi. samaya sikkaaga nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,Domlur,
+477,Broken street lamp hanging dangerously near market in Shivajinagar. Plaese fix it urgntly. Shme on the department.,Street Lighting,High,Negative,english,Shivajinagar,
+478,"Hennur main road nalli light fuse aagide eradu vaaragalinda. aksidenta aagbahudu, dayavittu bega maadi. dhanyavaada.",Street Lighting,High,Neutral,kanglish,Hennur,eradu vaaragalinda
+479,low water pressure in our apartment at hbbal since monday. kindly look into this when you get time.,Water Supply,Low,Neutral,english,Hebbal,since Monday
+480,marathhalli nalli yaavude suchane illade water cut maadidru friday ida tumba hurry illa nodi thanks,Water Supply,Low,Neutral,kanglish,Marathahalli,Friday inda
+481,"contaminated water coming from d borewell tap at malleshwaram. it is unsafe, resolve asap. asap",Water Supply,High,Neutral,english,Malleshwaram,
+482,"Mane mane kasa sangraha illa Friday inda namma street nalli, MG Road. samaya sikkaaga nodi. thanks.",Waste Collection,Low,Neutral,kanglish,MG Road,Friday inda
+483,peenya nalli footpath odedide raste asamaana ide dayavittu bega sri maadi dhanyavadagalu,Roads and Potholes,Medium,Neutral,kanglish,Peenya,
+484,"kasa vilebari vaahana banashankari ge barallla monday inda, kasa raasi aagide. aksidenta aagbahudu, dayavittu bega maai. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,Banashankari,Monday inda
+485,We are forced to buy tanker water as the tap is dry in MG Road. Please resolve this at the earliest. Regards.,Water Supply,Medium,Neutral,english,MG Road,
+486,"Raste pakka kasa haakidare school hattira Shivajinagar, nayigalu ellaa kade. aksidenta aagbahudu, daavittu bega maadi. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,Shivajinagar,
+487,"Ola kasa mattu odd kasa mix maadtidaare Shivajinagar nalli. makkalige tondare aagutte, urgent. yaarigu kaalji illa, bejaar aagide.",Waste Collection,High,Negative,kanglish,Shivajinagar,
+488,dry waste and wet waste are bing mixed by the collectors at electronic city. request u to take action. pls,Waste Collection,Medium,Negative,english,Electronic City,
+489,"Please replace the bulb of the stret lite at Peenya, it is off. Very urgent, kindly act today. Grateful for ur help.",Street Lighting,High,Neutral,english,Peenya,
+490,"Mysore Road ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Water Supply,High,Negative,kannada_script,Mysore Road,
+491,"Domlur ಬಳಿ ಬೀದಿ ದೀಪ ಉರಿಯುತ್ತಿಲ್ಲ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.",Street Lighting,High,Negative,kannada_script,Domlur,
+492,"Rste pakka kasa haakidare bus stop hattira Banashankari, nayigalu ellaa kade. tumba hurry illa, nodi.",Waste Collection,Low,Neutral,kanglish,Banashankari,
+493,"Hennur nalli yaavude suchane illade water cut maadidru ondu vaarada inda. thakshana sari maadi. yaarigu kaalji illa, bejaar aagide.",Water Supply,High,Negative,kanglish,Hennur,ondu vaarada inda
+494,"Rajajinagar nalli kasada raasi tegiyiri, sanijgalu hechchaguttive. tumba hurry illa, ndi. dhanyavadagalu.",Waste Collection,Low,Neutral,kanglish,Rajajinagar,
+495,"Road repair work left incomplete near hspital, Domlur, loose grvael everywhere. plz do the needful. Kindly acknowledge.",Roads and Potholes,Medium,Neutral,english,Domlur,
+496,"stret lite is on during d day and wasting power in kengeri. very urgent, kindly act today. !!",Street Lighting,High,Negative,english,Kengeri,
+497,vijayanagar nalli raste tumba haalaagide gundigalu ive thaksana sari maadi nimma department yenu maaduttide?,Roads and Potholes,High,Negative,kanglish,Vijayanagar,
+498,"Dry waste and wet watse are being mxied by the collectors at Sadashivanagar. Very urgent, kindly act today.",Waste Collection,High,Negative,english,Sadashivanagar,
+499,"Namma area Electronic City nlali Monday inda neeru baralla, tmba tondare. aksidenta aagbahudu, dayavittu bega maadi.",Water Supply,High,Negative,kanglish,Electronic City,Monday inda
+500,"Namma street nalli light barthilla Sunday inda, Ulsoor. samaya sikkaaga nodi. nimma department yenu maaduttide?",Street Lighting,Low,Negative,kanglish,Ulsoor,Sunday inda
+501,"Kalyan Nagar nalli tar raste poorti hogide, hosa asphalt haaki. dayavittu bega sari maadi. idu sahisoke aagalla.",Roads and Potholes,Medium,Negative,kanglish,Kalyan Nagar,
+502,banashankari nalli kasa tegiyalla samaya sikkaaga nodi dhanyavadagalu,Waste Collection,Low,Neutral,kanglish,Banashankari,
+503,"Manhole cover missing on the road at Whitefield, open pit. Request u to take action.",Roads and Potholes,Medium,Neutral,english,Whitefield,
+504,"Male neeru gundi nalli tumbide, Ulsoor main road. emergency, ivattu ne sari maadi.",Roads and Potholes,High,Negative,kanglish,Ulsoor,
+505,"Namma ara Vijayanagar nalli kaledha 3 dinagalinda neeru baralla, tumba tondare. tumba urgent ide, bega action togoli. nimma department yenu maaduttide?",Water Supply,High,Negative,kanglish,Vijayanagar,kaledha 3 dinagalinda
+506,"hospital hattira satta praani mattu kasa kuliyutide, Domlur. emergency, ivattu ne sari maadi. nimma department yenu maaduttide?",Waste Collection,High,Negative,kanglish,Domlur,
+507,"garbage is burning in d open at marathahalli, lots of soke. accident can happen any time. worst service, nobody cares.",Waste Collection,High,Negative,english,Marathahalli,
+508,"market hattira speed breaker odedide, apaayakaari, jayanagar 4th block. gamanakke tandidini, nodi.",Roads and Potholes,Low,Neutral,kanglish,Jayanagar 4th Block,
+509,namma street nalli lite barthilla ninne inda shivajinagar dayavittu gamana kodi nimma department yenu maaduttide?,Street Lighting,Medium,Negative,kanglish,Shivajinagar,ninne inda
+510,watr is not coming in the taps at JP Nagar since Monday. Immediate action needed. Totally unacceptable!,Water Supply,High,Negative,english,JP Nagar,since Monday
+511,"Koramangala nalli tar raste poorti hogide, hosa asphalt haaki. dayavittu gamana kodi.",Roads and Potholes,Medium,Negative,kanglish,Koramangala,
+512,"Hebbal ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಭಾನುವಾರದಿಂದ ಹಾಗೆಯೇ ಇವೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Roads and Potholes,Medium,Negative,kannada_script,Hebbal,ಭಾನುವಾರದಿಂದ
+513,"kalyan nagar hattira ratse mele dodda gundi ide. makkalige tondare aagutte, urgnt. idu sahisoke aagalla. !!",Roads and Potholes,High,Negative,kanglish,Kalyan Nagar,
+514,Road cut for cable laying was not restored at Ulsoor. Just informing the department. Regards.,Roads and Potholes,Low,Neutral,english,Ulsoor,
+515,"ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಬೀದಿ ದೀಪಗಳು ಹಾಳಾಗಿವೆ, Hebbal ಪ್ರದೇಶದಲ್ಲಿ ಎಲ್ಲೆಡೆ ಕತ್ತಲೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು.",Street Lighting,Medium,Neutral,kannada_script,Hebbal,
+516,"The lamp post outside my house in Koramangala is dead from Friday, whole street is dark. No rush, but please see to it. Kindly acknowledge.",Street Lighting,Low,Neutral,english,Koramangala,from Friday
+517,"garbage is burning in the open at bannerghatta road, lots of smoke. please do d needful. grateful for ur help. pls",Waste Collection,Medium,Neutral,english,Bannerghatta Road,
+518,"mraket hattira speed breaker odedide, apaayakaari, bannerghatta road. makkalige tondare aagutte, urgent. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Bannerghatta Road,
+519,Garbage has not been colected in Rajajinagar sinc Tuesday. Please resolve this at the earliest. We are fed up with this negligence.,Waste Collection,Medium,Negative,english,Rajajinagar,since Tuesday
+520,Banashankari nalli kasa ondu vaarada ida tegiyalla. action togolli please.,Waste Collection,Medium,Negative,kanglish,Banashankari,ondu vaarada inda
+521,Mysore Road ನಲ್ಲಿ ನೀರು ಬರುತ್ತಿಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಧನ್ಯವಾದಗಳು.,Water Supply,Low,Neutral,kannada_script,Mysore Road,
+522,road cut for cable laying was not rstored at malleshwaram. just informing the department. thank you.,Roads and Potholes,Low,Neutral,english,Malleshwaram,
+523,"Hagalu kooda street lite uriyuttide Hennur nalli, current waste agatide. aksidenta aagbahudu, dayavittu bega maadi. yaarigu kaalji ill, bejaar aagide.",Street Lighting,High,Negative,kanglish,Hennur,
+524,we are forced to buy tanker water as d tap is dry in rajajinaga please do d needful knidly acknowledge,Water Supply,Medium,Neutral,english,Rajajinagar,
+525,HSR Layout nalli kasa eradu vaaragalinda tegiyalla. thakshana sari maadi. idu sahisoke aagalla.,Waste Collection,High,Negative,kanglish,HSR Layout,eradu vaaragalinda
+526,indiranagar 1st stage nalli kasa 5 dinagalinda tegiyalla. samaya sikkaaga nodi. thanks.,Waste Collection,Low,Neutral,kanglish,Indiranagar 1st Stage,5 dinagalinda
+527,"JP Ngaar nalli kasa sdutidare, tumba hoegyide. tumba urgent ide, bega action togoli.",Waste Collection,High,Negative,kanglish,JP Nagar,
+528,"Tap nalli neeru pressure tumba kadime ide, Hennur. aksidenta aagbahudu, dyaavittu bega maadi. idu sahisoke aaglala.",Water Supply,High,Negative,kanglish,Hennur,
+529,raste kelasa ardhakke bittidare hospital hattira ulsoor nalli jalli kallu ellaa kade dayavittu gamana kodi dhanyavadagalu,Roads and Potholes,Medium,Neutral,kanglish,Ulsoor,
+530,d rad at hsr layout is bdaly damaged and full of potholes sinc yday gamanakke tandidini nodi grateful for your help,Roads and Potholes,Low,Neutral,english,HSR Layout,since yesterday
+531,"Raatri HSR Layout nalli tumba kattale, street light kharaabu aagide. action togolli please. thanks.",Street Lighting,Medium,Neutral,kanglish,HSR Layout,
+532,"Banashankari nalli street lamp aarsi aarsi uriyutte, sari maadi. aksidenta aagbahudu, dayavittu bega maadi.",Street Lighting,High,Negative,kanglish,Banashankari,
+533,"Jayanagar 4th Block nalli manhole mucchala illa, raste mele gundi. action togolli please.",Roads and Potholes,Medium,Neutral,kanglish,Jayanagar 4th Block,
+534,Dead animal and rotting garbage near park in Electronic City. Request u to take action. Very disappointed.,Waste Collection,Medium,Negative,english,Electronic City,
+535,"metro station hattira dari deepa uriyalla Tuesday inda, Kalyan Nagar. tumba hurry illa, nodi. gamanisi, tahnks.",Street Lighting,Low,Neutral,kanglish,Kalyan Nagar,Tuesday inda
+536,"Broken footpath and uneven road near market in Vijayanagar. No rush, but please see to it. Thank you.",Roads and Potholes,Low,Neutral,english,Vijayanagar,
+537,Street lights are not working on the road near metro station in Peenya. Kindly look into it soon. Kindly acknowledge.,Street Lighting,Medium,Neutral,english,Peenya,
+538,contamianted water coming from the borewell tap at yelahanka request u to tae action asap,Water Supply,Medium,Negative,english,Yelahanka,
+539,"Neeru supply illa kaledha 3 dinagalinda, tanker ge duddu kodtidini, Kengeri. dayavittu bega sari maadi. tumba kopa barutte.",Water Supply,Medium,Negative,kanglish,Kengeri,kaledha 3 dinagalinda
+540,"the lamp post outside my house in banashankari is dead for two weeks, whole street is dark. immediate action needed. we are fed up with this negligence. ...",Street Lighting,High,Negative,english,Banashankari,for two weeks
+541,Indiranagar 1st Stage nalli neeru barthilla. dayavittu gamana kodi.,Water Supply,Medium,Neutral,kanglish,Indiranagar 1st Stage,
+542,please replace d bulb of d street light at rajajinagar it is off for a week now plz do d needful thank you,Street Lighting,Medium,Neutral,english,Rajajinagar,for a week now
+543,"kambada deepa muri hogide hsr layout alli, tondare ide. dayavittu bega sari maadi. yaarigu kaalji illa, bejaar aagide. pls",Street Lighting,Medium,Negative,kanglish,HSR Layout,
+544,"Raste kelasa ardhakke bittidare school hattira BTM Layout nalli, jalli klalu ellaa kade. dayavittu gamana kodi.",Roads and Potholes,Medium,Negative,kanglish,BTM Layout,
+545,"lite cut hogide Malleshwaram nlali, sreet light off.",Street Lighting,Medium,Negative,hard,Malleshwaram,for a week now
+546,"overflowing dustbin near park in kalyan nagar, terrible smell. just informing the department. thank you.",Waste Collection,Low,Neutral,english,Kalyan Nagar,
+547,"temple htatira satta praani mattu kasa kuliyutide, Banashankari. gamanakke tandidini, nodi. thanks.",Waste Collection,Low,Neutral,kanglish,Banashankari,
+548,ನಮ್ಮ ಏರಿಯಾ KR Puram ನಲ್ಲಿ ಕುಡಿಯುವ ನೀರು ಕೊಳಕಾಗಿದೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.,Water Supply,Medium,Negative,kannada_script,KR Puram,
+549,"Neeru supply illa eradu vaaragalinda, tanker ge duddu kodtidini, Domlur. samaya sikkaaga nodi. gamanisi, thanks.",Water Supply,Low,Neutral,kanglish,Domlur,eradu vaaragalinda
+550,Broken footpath and uneven rd nar market in Sadashivanagar. This is an emergency! Shame on the department.,Roads and Potholes,High,Negative,english,Sadashivanagar,
+551,"metro station hattira kasada dabba tumbi hariyuttide, tumba vaasane, BTM Layout. emergency, ivattu ne sari maadi.",Waste Collection,High,Negative,kanglish,BTM Layout,
+552,Electronic City nalli yaavude suchane illade water cut maadidru kaledha 3 dinagalinda. action togolli please. tumba kasta aagide.,Water Supply,Medium,Negative,kanglish,Electronic City,kaledha 3 dinagalinda
+553,"bus stop hattira main pipe odeiddhe, neeru sorutide, peenya. gamanakke tandidini, nodi. ...",Water Supply,Low,Negative,kanglish,Peenya,
+554,Cauvery watr has nt ben supplied to HSR Lyaout since Tuesday. Just infomring d department. Grateful for your help.,Water Supply,Low,Neutral,english,HSR Layout,since Tuesday
+555,"Low water pressure in our apartmnet at Banashankari for the last 3 days. No rush, but please see to it. Grateful for ur help.",Water Supply,Low,Neutral,english,Banashankari,for the last 3 days
+556,"Pipeilne burst ner market, Malleshwaram. rd is flooded with water. Request u to take actino.",Water Supply,Medium,Negative,english,Malleshwaram,
+557,the tar road in hennur has completely come off please re-asphalt tumba hurry illa nodi thanks in advance,Roads and Potholes,Low,Neutral,english,Hennur,
+558,main water pipe is leaking near park in mg road water is being wasted children and elderly people are suffering sahme on d department,Water Supply,High,Negative,english,MG Road,
+559,tap nalli neeru pressure tumba kadime ide kaledha vaaradinda peenya tumba hurry illa nodi thanks,Water Supply,Low,Neutral,kanglish,Peenya,kaledha vaaradinda
+560,"Nereu supply illa ninne inda, tanker ge duddu kodtidini, Bannerghatta Road. tumba hurry illa, nodi. gamanisi, thanks.",Water Supply,Low,Neutral,kanglish,Bannerghatta Road,ninne inda
+561,"basavanagudi bus stop hattira lights elladu off, hengasarige suraksha illa. samaya sikkaaga nodi. thanks.",Street Lighting,Low,Neutral,kanglish,Basavanagudi,
+562,Indiranagar 1st Stage nalli yaavude suchane illade watr cut maadidru kaledha 3 dinagalinda. action togolli plz.,Water Supply,Medium,Neutral,kanglish,Indiranagar 1st Stage,kaledha 3 dinagalinda
+563,btm layout nalli kasa sudtidare tumba hogeyide samaya sikkaaga nodi dhanyavadagalu,Waste Collection,Low,Neutral,kanglish,BTM Layout,
+564,"Whitefield nalli yaavude suchane illade water cut maadidru Monday inda. tumba urgent ide, bega action togoli. gamanisi, thanks.",Water Supply,High,Neutral,kanglish,Whitefield,Monday inda
+565,"Please clear the garbage heap at Whitefield, it is spreading mosquitoes. Please check when possible. Thanks in advance.",Waste Collection,Low,Neutral,english,Whitefield,
+566,"Pipe cut by the cable contractors near bus stop in Banashankari, no water.",Water Supply,High,Negative,hard,Banashankari,since yesterday
+567,"Malleshwaram nalli raste tumba haalaagide, gundigalu ive ondu vaarada inda. tumba hurry illa, nodi.",Roads and Potholes,Low,Neutral,kanglish,Malleshwaram,ondu vaarada inda
+568,"school hattira satta praani mattu kasa kuliyutide, Ulsoor. gamanakke tandidini, nodi. dhanyavadagau.",Waste Collection,Low,Neutral,kanglish,Ulsoor,
+569,"Chaduru hattia kasa tumbide, metro station hattira Basavanagudi. makkalige tondare aagutte, urgent.",Waste Collection,High,Negative,kanglish,Basavanagudi,
+570,Hebbal nalli neeru barthilla eradu vaaragalinda. action togolli please. dhanyavadgaalu.,Water Supply,Medium,Neutral,kanglish,Hebbal,eradu vaaragalinda
+571,"temple hattira main pipe odediddhe, neeru sorutide, Kalyan Nagar. dayavittu bega sari maad. tumba kopa barutte.",Water Supply,Medium,Negative,kanglish,Kalyan Nagar,
+572,"hgaalu kooda street light uriyuttide vijayanagar nalil, current waste aagtide. thakshana sari maadi. idu sahisoke aagalla.",Street Lighting,High,Negative,kanglish,Vijayanagar,
+573,trash piled up beside the drain near market btm layout kindly look into this when you get time very disappointed,Waste Collection,Low,Negative,english,BTM Layout,
+574,"Koramangala ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಹಾಗೆಯೇ ಇವೆ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Roads and Potholes,High,Negative,kannada_script,Koramangala,
+575,"jp nagar hattia stret lite kaledha 3 dinagalinda uriyuttlila. emergnecy, ivattu ne sari maadi. tmuba kasta aagide. plz",Street Lighting,High,Negative,kanglish,JP Nagar,kaledha 3 dinagalinda
+576,d light on the main rd at Rajajinagar is fused sinc Monday. plz resolve this at the earliets.,Street Lighting,Medium,Neutral,english,Rajajinagar,since Monday
+577,Broken footpath and uneven road near park in KR Puram. Children and elderly people are suffering.,Roads and Potholes,High,Neutral,english,KR Puram,
+578,rd repair work left incomplete near hospital bannerghatta road loose gravel everywhere dayavittu bega sari maadi,Roads and Potholes,Medium,Negative,english,Bannerghatta Road,
+579,"Cable haakalu raste agediddare, Tuesday inda sari maadilla, Indiranagar 1st Stage. aksidenta aagabhudu, dayavittu bega maad.",Roads and Potholes,High,Negative,kanglish,Indiranagar 1st Stage,Tuesday inda
+580,"Pipe cut by the cable contractors near hospital in Banashankari, no water.",Water Supply,High,Negative,hard,Banashankari,since Tuesday
+581,waste is dumped on the rodaside near school malleshwaram stray dogs everywhere kindly look into it soon very disappointed,Waste Collection,Medium,Negative,english,Malleshwaram,
+582,hagalu kooda street lite uriyutitde jp nagar nalli current waste aagtide emergency ivattu ne sari maadi nimma department yenu maaduttide?,Street Lighting,High,Negative,kanglish,JP Nagar,
+583,"banashankari nalli kasa sudtidare, tumba hogeyide. dayavittu bega sari maadi. dhanyavaada.",Waste Collection,Medium,Neutral,kanglish,Banashankari,
+584,"Trash piled up beside the drain near school, JP Nagar. Children and elderly people are suffering. Shame on the department.",Waste Collection,High,Negative,english,JP Nagar,
+585,"Road repair work left incomplete near hospital, Bannerghatta Road, loose gravel everywhere. Request you to take action. Kindly acknowledge.",Roads and Potholes,Medium,Neutral,english,Bannerghatta Road,
+586,"Mane mane kasa sangraha illa namma street nalli, BTM Layotu. action tooglli please. nimma department yenu maaduttide?",Waste Collection,Medium,Negative,kanglish,BTM Layout,
+587,"Road cut not repaired near school in Bannerghatta Road, please fix.",Roads and Potholes,Medium,Neutral,hard,Bannerghatta Road,since Sunday
+588,"Street lights are not working on the road near mtero station in Hennur. Please check when psosible. Worst service, nobody cares.",Street Lighting,Low,Negative,english,Hennur,
+589,Potholes filled with rainwater on the main road at JP Nagar. Children and elderly people are suffering. This is very frustrating.,Roads and Potholes,High,Negative,english,JP Nagar,
+590,deep pothole nar hospital in marathahalli two-wheelers are slipping kindly lok into it soon kindly acknowledge,Roads and Potholes,Medium,Neutral,english,Marathahalli,
+591,contaminated watr coming from the borewell tap at jayanagar 4th bolck. please do d nedeful. thank you.,Water Supply,Medium,Neutral,english,Jayanagar 4th Block,
+592,there is a huge pothol on the road near msyore road. immediate action needed. very disappointed. plz,Roads and Potholes,High,Negative,english,Mysore Road,
+593,mysore road alli kudiyuva neeru kolachaagide vaasane barutte samaya sikkaaga nodi nimma department yenu maaduttide?,Water Supply,Low,Negative,kanglish,Mysore Road,
+594,Street lights are not working on the road near school in Vijayanagar. Just informing the department. This is very frustrating.,Street Lighting,Low,Negative,english,Vijayanagar,
+595,Tree cut waste and branches left on the road at Shivajinagar for the last 3 days.,Waste Collection,Low,Neutral,hard,Shivajinagar,for the last 3 days
+596,"bus stop hattira kasada dabba tumbi hariyuttide, tumba vaasane, Mysore rd. action togolli please. thanks.",Waste Collection,Medium,Neutral,kanglish,Mysore Road,
+597,"Namma area Hebbal nalli Sunday inda neeru baralla, tumba tondare. action togolli please. gamanisi, thanks.",Water Supply,Medium,Neutral,kanglish,Hebbal,Sunday inda
+598,rd cut for cable laying was not restored at jayanagar 4th block pelase fix it urgently worst service nobody cres,Roads and Potholes,High,Negative,english,Jayanagar 4th Block,
+599,"Deep pothole near metro station in Rajajinagar, two-wheelers are slipping. Please resolve this at the earliest. Regards.",Roads and Potholes,Medium,Neutral,english,Rajajinagar,
+600,mysore road alli kudiyuva neeru kolachaagide vaasane bautte dayavittu bega sari maadi tumba kopa barutte,Water Supply,Medium,Negative,kanglish,Mysore Road,
+601,"Road cut not repaired near bus stop in Kalyan Nagar, please fix.",Roads and Potholes,Medium,Neutral,hard,Kalyan Nagar,from Friday
+602,"Please replace the bulb of d street lihgt at Electronic City, it is off for 5 days. Please rsolve this at the eariest. Worst service, nobody cares.",Street Lighting,Medium,Negative,english,Electronic City,for 5 days
+603,"indiranagar 1st satge hattira raste mele dodda guni ide. tumba hurry ila, nodi. nimma department yenu maaduttide? pls",Roads and Potholes,Low,Negative,kanglish,Indiranagar 1st Stage,
+604,garbage has not been collected in mysore rd. please do the needful. grateful for ur help.,Waste Collection,Medium,Neutral,english,Mysore Road,
+605,"HSR Layout ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಎರಡು ವಾರಗಳಿಂದ ಹಾಗೆಯೇ ಇವೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ.",Roads and Potholes,Medium,Neutral,kannada_script,HSR Layout,ಎರಡು ವಾರಗಳಿಂದ
+606,the rd at basavanagudi is badly damaged and full of potholes since yesterday very urgnt kindly act today very disappointed pls,Roads and Potholes,High,Negative,english,Basavanagudi,since yesterday
+607,"Raatri Ulsoor nalli tumba kattale, street light kharaabu aagide. action togolli please. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,Ulsoor,
+608,"drniking water is dirty and smelly in btm layout, tap watr is brownish. just informing the department.",Water Supply,Low,Neutral,english,BTM Layout,
+609,school hattira aala gundi ide bike gale jaarutive hsr layout action togolli pleas gamanisi thanks,Roads and Potholes,Medium,Neutral,kanglish,HSR Layout,
+610,"Namma area Peenya nalli kaledha 3 dinaaglinda neeru baralla, tumba tondare. dayavittu bega sari maadi. yaairgu kaalji ill, bejaar aagide.",Water Supply,Medium,Negative,kanglish,Peenya,kaledha 3 dinagalinda
+611,overflowing dustbin near temple in malelshwaram terrible semll children and elderly people are suffering worst service nobody cares,Waste Collection,High,Negative,english,Malleshwaram,
+612,"cauvery water has not been supplied to koramangala for a week now. very urgent, kindly act today. very disappointed.",Water Supply,High,Negative,english,Koramangala,for a week now
+613,borewell neeru kalusha aagide hennur nalli kudiyoke aagalla tumba hurry illa nodi thanks,Water Supply,Low,Neutral,kanglish,Hennur,
+614,"Hagalu kooda street lite uriyuttide Hebbal nalli, curernt waste aagtide. gamanakke tandidini, nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,Hebbal,
+615,"Namma area HSR Layout nalli neeru baralla, tumba tondare. dayavittu gamana kodi.",Water Supply,Medium,Negative,kanglish,HSR Layout,
+616,Peenya ಬಳಿ ಬೀದಿ ದೀಪ ಉರಿಯುತ್ತಿಲ್ಲ. ತಕ್ಷಣ ಸರಿಪಡಿಸಿ.,Street Lighting,High,Negative,kannada_script,Peenya,
+617,d lite near Koramanglaa is out. It is a stret light nt a traffic lite.,Street Lighting,Medium,Negative,hard,Koramangala,for 5 days
+618,"JP Ngar nalli street lamp aarsi aarsi uriyutte, sari maadi. dayavittu bega sari maaid. nimma department yenu maduttide?",Street Lighting,Medium,Negative,kanglish,JP Nagar,
+619,Banashankari hattira raste mele dodda gundi ide. action togolli please.,Roads and Potholes,Medium,Neutral,kanglish,Banashankari,
+620,"streetlight pole near hospita, electronic city keeps flickering and then goes off. request u to take action. kindly acknowledge.",Street Lighting,Medium,Neutral,english,Electronic City,
+621,d lamp post oustide my house in whitefield is dead whole stret is dark no rush but pelase see to it regards,Street Lighting,Low,Neutral,english,Whitefield,
+622,"Sadashivanagar ನಲ್ಲಿ ನೀರು ಬರುತ್ತಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Water Supply,High,Negative,kannada_script,Sadashivanagar,
+623,"Chaduru hattira kasa tumbide, park hattira Hebbal. dayavittu gaamna kodi. dhanyavadagalu.",Waste Collection,Medium,Neutral,kanglish,Hebbal,
+624,The road at Whitefield is badly damaged and full of potholes. Please resolve this at the earliest. Thanks in advance.,Roads and Potholes,Medium,Neutral,english,Whitefield,
+625,Dead animal and rotting garbage near bus stop in JP Nagar. dayavittu bega sari maadi.,Waste Collection,Medium,Neutral,english,JP Nagar,
+626,potholes filled with rainwater on d main road at Malleshwaram. Please resolve this at the earliest. This is very frustrating.,Roads and Potholes,Medium,Negative,english,Malleshwaram,
+627,The road at Sadashivanagar is badly damaged and full of potholes for the last 3 days. Children and elderly people are suffering. Shame on the department.,Roads and Potholes,High,Negative,english,Sadashivanagar,for the last 3 days
+628,"Dry waste and wet waste are being mixed by the collectors at KR Puram. aksidenta aagbahudu, dayavittu bega maadi. Totally unacceptable!",Waste Collection,High,Negative,english,KR Puram,
+629,deep pothole nar temple in mg road two-wheelers are slipping pleae do the needful shame on d department plz,Roads and Potholes,Medium,Negative,english,MG Road,
+630,waste is dumepd on the roadside near hospital hebba stray dogs everywhere pelase do the needful kindly acknowledge,Waste Collection,Medium,Neutral,english,Hebbal,
+631,Tree cut watse and branches left on the rd at Rajajinagar since Tuesday.,Waste Collection,Low,Neutral,hard,Rajajinagar,since Tuesday
+632,"hospital hattira dari deepa uriyalla eradu vaaragalinda, Ulsoor. emergency, ivattu ne sari maadi. tumba kasta aagide.",Street Lighting,High,Negative,kanglish,Ulsoor,eradu vaaragalinda
+633,"rd cut for cable laying was not restored at Indirnaagar 1st Stage. It is unsafe, resolve ASAP. Very disappointed.",Roads and Potholes,High,Negative,english,Indiranagar 1st Stage,
+634,"KR Puram main road nalli light fuse aagide Mnoday inda. makkalige tondare aagutte, urgent. yaarigu kaalji illa, bejaar aagide.",Street Lighting,High,Negative,kanglish,KR Puram,Monday inda
+635,potholes filled wid rianwater on the main road at JP Nagar. dayavittu gamana kodi. Very disappointed.,Roads and Potholes,Medium,Negative,english,JP Nagar,
+636,"Male neeru gundi nalli tumbide, HSR Layout main road. dayavittu gamana kodi. idu sahisoke aagalla.",Roads and Potholes,Medium,Negative,kanglish,HSR Layout,
+637,"Mane mane kasa sangraha illa Sunday inda namma street nalli, JP Nagar. action togolli please. nimma department ynu maaduttide?",Waste Collection,Medium,Negative,kanglish,JP Nagar,Sunday inda
+638,mg rd nalli tar rsate poorti hogid hosa asphalt haaki thakshana sari maadi,Roads and Potholes,High,Neutral,kanglish,MG Road,
+639,"Chaduru hattira kasa tumbide, hospital hattira Sadashivanagar. dayavittu bega sari maai. gamanisi, thanks.",Waste Collection,Medium,Neutral,kanglish,Sadashivanagar,
+640,"temple hattira satta praani mattu kasa kuliyutide, Basavanagudi. dayavittu bega sari maadi. nimma department yenu maaduttide?",Waste Collection,Medium,Negative,kanglish,Basavanagudi,
+641,"park hattira dari deepa uriyalla, Ulsoor. gamanakke tadnidini, nodi. tumba kasta aagide.",Street Lighting,Low,Negative,kanglish,Ulsoor,
+642,watr is not comig in d taps at peenya samaya sikkaaga nodi grateful for ur help plz,Water Supply,Low,Neutral,english,Peenya,
+643,"Drinking water is dirty and smelly in HSR Layout, tap water is brownish. Pelase check when possible.",Water Supply,Low,Negative,english,HSR Layout,
+644,"hsr layout alli kudiyuva neeru kolachaagide, vaasane barutte. action togolli please. !!",Water Supply,Medium,Neutral,kanglish,HSR Layout,
+645,"Broken street lamp hanging dangerously near metro station in Kalyan Nagar. No rush, but please see to it.",Street Lighting,Low,Neutral,english,Kalyan Nagar,
+646,"Chaduru hattira kasa tumbide, school hattira Ulsoor. emergency, ivattu ne sari maadi. yaarigu kaalji illa, bejaar aagide.",Waste Collection,High,Negative,kanglish,Ulsoor,
+647,Speed breaker ner hospital at Koramangala is broken and dagnerous. Request you to take action. Regards.,Roads and Potholes,Medium,Neutral,english,Koramangala,
+648,"watr is not coimng in d tps at Basavanagudi since Monday. emergency, ivattu ne sari maadi. Very disappointed.",Water Supply,High,Negative,english,Basavanagudi,since Monday
+649,"Bannerghatta Road nalli kasa sudtidrae, tumba hogeyide. makkalige tondare aagutte, urgent. yaarigu kaalji illa, bejaar aagide.",Waste Collection,High,Negative,kanglish,Bannerghatta Road,
+650,"Sadashivanagar nalli footpath odedide, raste asamaana ide. tumba hurry illa, nodi. dhanyavaada.",Roads and Potholes,Low,Neutral,kanglish,Sadashivanagar,
+651,hospital hatira satta praani mattu kaa kuliyutide banashankari dayavittu gamana kodi dhanyavadagalu,Waste Collection,Medium,Neutral,kanglish,Banashankari,
+652,"Deep pothole near bus stop in Koramangala, two-wheelers are slipping. Kindly look into it soon. Thanks in advance.",Roads and Potholes,Medium,Neutral,english,Koramangala,
+653,"Waste is dumped on the roadsde near hospital, Koramangala, srtay dogs everywhere. Please resolve this at the earliest. We are fed up with this negliegnce.",Waste Collection,Medium,Negative,english,Koramangala,
+654,Sadashivanagar ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ. ಧನ್ಯವಾದಗಳು.,Water Supply,Low,Neutral,kannada_script,Sadashivanagar,
+655,speed breaker near temple at hennur is broken and dangerous. accident can happen any time. very disappointed. ...,Roads and Potholes,High,Negative,english,Hennur,
+656,"three is no waer suply in hsr layout since yesterday. very urgent, kindly act toady. pls",Water Supply,High,Negative,english,HSR Layout,since yesterday
+657,d rd at Mysore Road is badly damaged and full of potholes for the last 3 days. plz check when possible. Thank u.,Roads and Potholes,Low,Neutral,english,Mysore Road,for the last 3 days
+658,plz replace d bulb of the stret light at rajajinagar it is off since last week it is unsafe reoslve asap totally unacceptable!,Street Lighting,High,Negative,english,Rajajinagar,since last week
+659,"rd cut nt repaired near mraket in MG Road, plz fix.",Roads and Potholes,Medium,Neutral,hard,MG Road,for 5 days
+660,"temple hattira aala gundi ide, bike gale jaarutive, Electronic City. dayavittu bega sari maadi. dhanyavadagalu.",Roads and Potholes,Medium,Neutral,kanglish,Electronic City,
+661,basavanagudi hattira ratse mele dodda gundi ide thakshnaa sari maadi idu sahisoke aagalla pls,Roads and Potholes,High,Negative,kanglish,Basavanagudi,
+662,"Yelahanka nalli footpath odedide, raste asamaana ide. dayavittu bega sari maadi. dhanyavadagalu.",Roads and Potholes,Medium,Neutral,kanglish,Yelahanka,
+663,basavanagudi nalli neeru barthilla dyavittu gamana kodi dhanyavadagalu,Water Supply,Medium,Neutral,kanglish,Basavanagudi,
+664,Dry waste and wet waste are being mixed by the collectors at MG Road. Accident can happen any time.,Waste Collection,High,Negative,english,MG Road,
+665,kalyan nagar hospital hattira lites elldau off hengasarige suraksha ill dayavittu gamana kodi thanks,Street Lighting,Medium,Neutral,kanglish,Kalyan Nagar,
+666,Peenya hattira raste mele dodda gundi ide. dayavittu gamana kodi.,Roads and Potholes,Medium,Neutral,kanglish,Peenya,
+667,"drinking water is dirty and smelly in hsr layout, tap water is brownish. no rush, but please see to it. totally unacceptable!",Water Supply,Low,Negative,english,HSR Layout,
+668,"BTM Layout ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು.",Water Supply,High,Neutral,kannada_script,BTM Layout,
+669,there is no water suply in basavanagudi since last week no rush but plz see to it thanks in advance,Water Supply,Low,Neutral,english,Basavanagudi,since last week
+670,"Banashankari nalli footpath odedide, raste asamaana ide. eergency, ivattu ne sri maadi.",Roads and Potholes,High,Negative,kanglish,Banashankari,
+671,"Neeru suppy illa Sunady inda, tanker ge duddu kodtidini, Peenya. thakshnaa sari maadi. idu sahisoke aagalla.",Water Supply,High,Negative,kanglish,Peenya,Sunday inda
+672,"hospital hattira satta praani mtatu kasa kuliyutide, vijayanagar. makkalige tondare aagutte, urgent.",Waste Collection,High,Negative,kanglish,Vijayanagar,
+673,"ಕಸದ ಗಾಡಿ ನಮ್ಮ ಬೀದಿಗೆ ಬರುತ್ತಿಲ್ಲ, BTM Layout. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.",Waste Collection,High,Negative,kannada_script,BTM Layout,
+674,"Waste is dumped on the roadside near market, Basavanagudi, stray dogs everywhere. Very urgent, kindly act today. Thank you.",Waste Collection,High,Neutral,english,Basavanagudi,
+675,"Hebbal ನಲ್ಲಿ ಕಸ ಐದು ದಿನಗಳಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Waste Collection,High,Negative,kannada_script,Hebbal,ಐದು ದಿನಗಳಿಂದ
+676,"Streetlight pole near marekt, Yelahanka keeps flickering and then goes off. dayavittu gamana kodi.",Street Lighting,Medium,Negative,english,Yelahanka,
+677,"Marathahalli ge Kaveri neeru barlilla, tanker beku. emergency, ivattu ne sari maadi. tumba kasta aagide.",Water Supply,High,Negative,kanglish,Marathahalli,
+678,"Male neeru gundi nalli tumbide, Whitefield min road. tumba hurry illa, nodi. yaarigu kaalji illa, bejaar aaigde.",Roads and Potholes,Low,Negative,kanglish,Whitefield,
+679,"Basavanagudi nalli manhole mucchala illa, raste mele gundi. action togolli please. idu sahisoke aagalla.",Roads and Potholes,Medium,Negative,kanglish,Basavanagudi,
+680,market hattira main pipe odediddhe neeu sorutide rajajinagar aksidenta aagbahudu dayavittu bega maadi plz,Water Supply,High,Negative,kanglish,Rajajinagar,
+681,"Drinking water is dirty and smelly in Yelahanka, tap watr is brownish. Request u to take action.",Water Supply,Medium,Neutral,english,Yelahanka,
+682,"sadashivanagar school hattira lights elladu off, hengasarige surasha illa. dayavittu bega sari maadi. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,Sadashivanagar,
+683,"kayan nagar nalli raste tumba haalaagide, gundigalu ive. tumba hurry illa, nodi. dhanyavadagalu.",Roads and Potholes,Low,Neutral,kanglish,Kalyan Nagar,
+684,"market hattira main pipe oeddiddhe, neeru sorutdie, peenya. dayavittu gamana kodi. yaarigu kaaji ila, bejaar aagide.",Water Supply,Medium,Negative,kanglish,Peenya,
+685,there is a huge pothol on the rd ner btm laoyut. request u to take action. this is vry frustrating.,Roads and Potholes,Medium,Negative,english,BTM Layout,
+686,raste kelasa ardhakke bittidare hospital hattira hsr layout nalli jalli kallu ellaa kade akisdenta agbahudu dayavittu bega maadi plz,Roads and Potholes,High,Negative,kanglish,HSR Layout,
+687,"Raste pakka kasa haakidare market hattira Whitefield, nayigalu ellaa kade. action togolli plz. dhanyavadagalu.",Waste Collection,Medium,Neutral,kanglish,Whitefield,
+688,"kalyan nagar nalli manhole mucchala illa, raste mele gundi. tumba hurry illa, nodi. nimma department yenu maaduttide?",Roads and Potholes,Low,Negative,kanglish,Kalyan Nagar,
+689,d road at hsr layout is badly damaged and full of potholes for the last 3 days please do the nedful knidly acknowledge,Roads and Potholes,Medium,Neutral,english,HSR Layout,for the last 3 days
+690,"Drinking watr is dirty and smelly in Mysore rd, tap water is brownish. No rush, but please see to it.",Water Supply,Low,Neutral,english,Mysore Road,
+691,"Mysore Road ನಲ್ಲಿ ಕಸ ಎರಡು ವಾರಗಳಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ಧನ್ಯವಾದ.",Waste Collection,High,Neutral,kannada_script,Mysore Road,ಎರಡು ವಾರಗಳಿಂದ
+692,"Kambada deepa muri hogide Peenya alli, tondare ide. atcion togolli please. yaarigu kalji illa, beajar aagide.",Street Lighting,Medium,Negative,kanglish,Peenya,
+693,"Chaduru hatitra kasa tumbide, hospital hattira Koramangala. action togolli please. yaarigu kaalji illa, bejaar aagide.",Waste Collection,Medium,Negative,kanglish,Koramangala,
+694,"Mane mane kasa sangraha illa namma stret nalli, JP Nagar. action togolli plz. nimma department yenu maaduttide?",Waste Collection,Medium,Negative,kanglish,JP Nagar,
+695,water is nt coming in the taps at hsr layout dayavittu bega sari maadi grateful for your help,Water Supply,Medium,Neutral,english,HSR Layout,
+696,"Shivajinagar alli hospital hattira kambada deepa kettide, ella kade kattale. gamanakke tandidini, nodi. thanks.",Street Lighting,Low,Neutral,kanglish,Shivajinagar,
+697,Broken street lamp hanging dangerously near market in KR Puram. Request you to take action. Shame on the department.,Street Lighting,Medium,Negative,english,KR Puram,
+698,indiranagar 1st stage hattira raste mele dodda gundi ide dayavittu gamana kodi yaarigu kalji illa bejaar aagide,Roads and Potholes,Medium,Negative,kanglish,Indiranagar 1st Stage,
+699,"raatri vijayanagar nali tumba katatle, street lite kharaabu aagide. dayavittu gamana kodi. nimma department yenu maaduttide?",Street Lighting,Medium,Negative,kanglish,Vijayanagar,
+700,Low water pressure in our apartment at Peenya. Request you to take action. Totally unacceptable!,Water Supply,Medium,Negative,english,Peenya,
+701,"Male neeru gundi nalli tumbide, Yelahanka main road. aksidenta aagbahudu, dayavittu bega maadi. yaairgu kaalji illa, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Yelahanka,
+702,dead animal and rotting garbge near metro station in domlur. plz check when possible. kindly acknowledge.,Waste Collection,Low,Neutral,english,Domlur,
+703,"Raatri Shivajinagar nalli tumba kattale, stret light kharaabu aagide. tumba urgent ide, bega action togoli. tumba kasta aagide.",Street Lighting,High,Negative,kanglish,Shivajinagar,
+704,"JP Nagar nalli kasa sudtidare, tumba hogeyide. dayavittu bega sari maadi.",Waste Collection,Medium,Neutral,kanglish,JP Nagar,
+705,"Overflowing dustbin near market in HSR Layou, terrible smell. Kindly look into it soon.",Waste Collection,Medium,Neutral,english,HSR Layout,
+706,"Water cut at Marathahalli, taps dry since yesterday.",Water Supply,High,Negative,hard,Marathahalli,since yesterday
+707,"market hattira dari deepa uriyalla eradu vaaragalinda, Whitefield. action togolli please.",Street Lighting,Medium,Neutral,kanglish,Whitefield,eradu vaaragalinda
+708,"Sadashivanagar ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಸೋಮವಾರದಿಂದ ಹಾಗೆಯೇ ಇವೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಧನ್ಯವಾದ.",Roads and Potholes,Medium,Neutral,kannada_script,Sadashivanagar,ಸೋಮವಾರದಿಂದ
+709,"rajajinagar nalli footpath odedide, raste asamaana ide. dayavittu gamana kodi. dhanyavadagalu.",Roads and Potholes,Medium,Neutral,kanglish,Rajajinagar,
+710,"Overflownig dustbin near market in Vijayanagar, terrible smell. Kindly look into this when you get time. Kndly acknowledge.",Waste Collection,Low,Neutral,english,Vijayanagar,
+711,btm layout nalli neeru barthilla tuesday inda. dayavittu gamana kodi. dhanyavadagalu. plz,Water Supply,Medium,Neutral,kanglish,BTM Layout,Tuesday inda
+712,"Drinking water is dirty and smelly in Hebbal, tap water is brownish. Kindly look into it soon.",Water Supply,Medium,Neutral,english,Hebbal,
+713,broekn footpath and uneven road near market in btm layout dayavittu bega sari maadi we are fed up wid this negligence,Roads and Potholes,Medium,Negative,english,BTM Layout,
+714,banashankari nalli raste tumba haalaagide gundigalu ive smaya sikkaaga nodi dhanyaadagalu,Roads and Potholes,Low,Neutral,kanglish,Banashankari,
+715,BTM Layout nalli yaauvde suchane illade water cut maadidru. acton togolli please. tumba kopa barutte.,Water Supply,Medium,Negative,kanglish,BTM Layout,
+716,contaminated water coming from the borewell tap at electronic city please resolve this at the earliest very disappointed,Water Supply,Medium,Negative,english,Electronic City,
+717,"Vijayanagar ಹತ್ತಿರ ಕಸದ ರಾಶಿ ಬಿದ್ದಿದೆ, ತುಂಬಾ ವಾಸನೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.",Waste Collection,Medium,Negative,kannada_script,Vijayanagar,
+718,Banashankari ನಲ್ಲಿ ಕಸ ತೆಗೆಯುತ್ತಿಲ್ಲ. ತಕ್ಷಣ ಸರಿಪಡಿಸಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Waste Collection,High,Negative,kannada_script,Banashankari,
+719,cable haakalu raste agediddare sari maadilla sadashivanagar actoin togolli please dhanyavaada,Roads and Potholes,Medium,Neutral,kanglish,Sadashivanagar,
+720,pohtoles filled wih rainwater on the main road at hennru. just infomring d department. thank u.,Roads and Potholes,Low,Neutral,english,Hennur,
+721,"Malleshwaram hospital hattira lights elladu off, hengasarige suraksha illa. thakshana sari maadi.",Street Lighting,High,Negative,kanglish,Malleshwaram,
+722,"MG Road alli kudiyuva neeru kolachaagide, vaasane barutte. thakshana sari maadi. idu sahisoke aagalla.",Water Supply,High,Negative,kanglish,MG Road,
+723,rajajinagar nalli neru barthilla tuesday inda aksidena aagbahudu dayavittu bega maai plz,Water Supply,High,Negative,kanglish,Rajajinagar,Tuesday inda
+724,sadashivanagar nalli yaavude suchane illade water cut maadidru kaledha vaaradnda. dayavittu gamana kodi.,Water Supply,Medium,Neutral,kanglish,Sadashivanagar,kaledha vaaradinda
+725,"Hagalu kooda street light uriyuttide BTM Layout nalli, current waste aagtide. dayavittu bega sari maadi.",Street Lighting,Medium,Neutral,kanglish,BTM Layout,
+726,street lites are not workin on the road near bus stop in hennur please do d needful we are fed up with this negilgence asap,Street Lighting,Medium,Negative,english,Hennur,
+727,"Road repair work left incomplete near park, Malleshwaram, loose gravel everywhere. Kindly look into this when you get time. Thanks in advance.",Roads and Potholes,Low,Neutral,english,Malleshwaram,
+728,"Basavanagudi ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.",Water Supply,High,Negative,kannada_script,Basavanagudi,
+729,"rd cut for cable laying was not retsored at Mysore Road since Monda. gamanakke tandidini, nodi. Thank you.",Roads and Potholes,Low,Neutral,english,Mysore Road,since Monday
+730,"Raste kelasa ardhakke bittidare market hattira Mysore Road nalli, jalli kallu ellaa kade. makkalige tondare aagutte, urgent. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,High,Negative,kanglish,Mysore Road,
+731,"Hennur nalli street lamp aarsi aarsi uriyutte, sari maadi. dayavittu gamana kodi. dhanyavaada.",Street Lighting,Medium,Neutral,kanglish,Hennur,
+732,Low watr pressure in our apartment at Koramangala since Tuesady. Kindly look into it soon. Grateful for ur help.,Water Supply,Medium,Neutral,english,Koramangala,since Tuesday
+733,kasa vilebai vaahana sadashivanagar ge barallla tuesday inda kasa raasi aagide aksienta aagbahudu dayavittu bega maadi gmanisi thanks,Waste Collection,High,Neutral,kanglish,Sadashivanagar,Tuesday inda
+734,"Ratari Ulsoor nalli tumba kttale, street light kharaabu aagide. action togolli plz. idu sahisoke aagalla.",Street Lighting,Medium,Negative,kanglish,Ulsoor,
+735,"We are forced to buy tanker water as the tap is dry for a week now in Whitefield. emergency, ivattu ne sari maadi. We are fed up with this negligence.",Water Supply,High,Negative,english,Whitefield,for a week now
+736,trash piled up beside the drain near temple vijayanagar dayavittu gamana kodi totally unacceptable!,Waste Collection,Medium,Negative,english,Vijayanagar,
+737,chduru hattira kasa tumbdie school hattira mg rd dayavittu bega sari maadi asap,Waste Collection,Medium,Neutral,kanglish,MG Road,
+738,"Garbage is burning in the open at Domlur, lots of smoke. Please resolve this at the earliest. Kindly acknowledge.",Waste Collection,Medium,Neutral,english,Domlur,
+739,"Kambada deepa muri hogide BTM Layout alli, tondare ide. tumba hurry illa, nodi. dhanyavadagalu.",Street Lighting,Low,Neutral,kanglish,BTM Layout,
+740,Kalyan Nagar ಬಳಿ ಬೀದಿ ದೀಪ ನಿನ್ನೆಯಿಂದ ಉರಿಯುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.,Street Lighting,Medium,Neutral,kannada_script,Kalyan Nagar,ನಿನ್ನೆಯಿಂದ
+741,"Drain cover broken on the road at JP Nagar, a deep hole.",Roads and Potholes,High,Negative,hard,JP Nagar,since Monday
+742,"Trash piled up beside the drain near bus stop, Jayanagar 4th Blok. Please resolve this at the earliest. Very disappointed.",Waste Collection,Medium,Negative,english,Jayanagar 4th Block,
+743,"ola kasa mtatu odd kaa mix maadtidaare kr puram nalli. gamanakke tandidini, nodi. gamanisi, thanks. asap",Waste Collection,Low,Neutral,kanglish,KR Puram,
+744,"rd repair work left incomplete near park, Malleshwaram, lose gravel everywhere. Just informing the department. Thank you.",Roads and Potholes,Low,Neutral,english,Malleshwaram,
+745,Road cut for cable laying was not restored at Ulsoor. Kindly look into it soon. Thanks in advance.,Roads and Potholes,Medium,Neutral,english,Ulsoor,
+746,main watr pipe is leaking near temple in banashankari water is being wasted no rush but plz see to it thanks in advance,Water Supply,Low,Neutral,english,Banashankari,
+747,no door to door waste collection in our street at ulsoor for a wek now please do d needful worst service nobody cares,Waste Collection,Medium,Negative,english,Ulsoor,for a week now
+748,"Shivajinagar ನಲ್ಲಿ ಕಸ ಸೋಮವಾರದಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು.",Waste Collection,High,Negative,kannada_script,Shivajinagar,ಸೋಮವಾರದಿಂದ
+749,"Overflowing dustbin near temple in HSR Layout, terrible smell. dayavittu gamana kodi. Grateful for your help.",Waste Collection,Medium,Neutral,english,HSR Layout,
+750,hospital hattira satta praani mttu kasa kuliyutide hsr layout action togolli pleaes thanks,Waste Collection,Medium,Neutral,kanglish,HSR Layout,
+751,watr cut in Whitefield without any notice since Monday. Please check when possible. This is very frustrating.,Water Supply,Low,Negative,english,Whitefield,since Monday
+752,"cable haakalu ratse agediddare, ondu vaarada inda sari maadilla, mysore road. gamanakke tandidini, nodi. gamanisi, thanks. plz",Roads and Potholes,Low,Neutral,kanglish,Mysore Road,ondu vaarada inda
+753,"Dark stretch near tmple, MG Road. All the lites are off, women feel unsafe. Please check when possible. Very disappointed.",Street Lighting,Low,Negative,english,MG Road,
+754,potholes filled with rainwater on the main road at electronic city please chcek when possible thanks in advance,Roads and Potholes,Low,Neutral,english,Electronic City,
+755,"No street lights in our lane at MG rd for the last 3 days. It is pitch dark at night. Kindly look into it soon. Worst service, nobody cares.",Street Lighting,Medium,Negative,english,MG Road,for the last 3 days
+756,Shivajinagar nalli neeru barthilla. dayavittu gamana kodi. thanks.,Water Supply,Medium,Neutral,kanglish,Shivajinagar,
+757,Bannerghatta Road hattira street light Tuesday inda uriyuttilla. dayavittu bega sari maadi. dhanyavadagalu.,Street Lighting,Medium,Neutral,kanglish,Bannerghatta Road,Tuesday inda
+758,Cauvery water has not been supplied to Yelahanka. dayavittu gamana kodi. Thanks in advance.,Water Supply,Medium,Neutral,english,Yelahanka,
+759,"JP Nagar nalli yaavude suchane illade water cut maadidru Tuesday inda. tumba urgent ide, bega action togoli. idu sahisoke aagalla.",Water Supply,High,Negative,kanglish,JP Nagar,Tuesday inda
+760,"Hennur ಹತ್ತಿರ ಕಸದ ರಾಶಿ ಬಿದ್ದಿದೆ, ತುಂಬಾ ವಾಸನೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.",Waste Collection,Medium,Negative,kannada_script,Hennur,
+761,"Raste pakka kasa hakaidare metro station hattira Sadashivanagar, nayigalu ellaa kade. makkalige tondare aagutte, urgent. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,Sadashivanagar,
+762,"Basavanagudi nalli neeru barthilla Monday inda. gamanakke tandidini, nodi. idu sahisoke aagalal.",Water Supply,Low,Negative,kanglish,Basavanagudi,Monday inda
+763,"Hbebal nalli tar raste poorti hogide, hosa asphalt haaki. asidenta aagbahudu, dayavittu bega maadi. dhanyavaada.",Roads and Potholes,High,Neutral,kanglish,Hebbal,
+764,"namma area ulsoor nalli monday inda neeru barall, tumba tondare. dayavittu bega sai maadi. dhanyavadagalu. ...",Water Supply,Medium,Neutral,kanglish,Ulsoor,Monday inda
+765,"Kambada deepa muri hogide BTM Layout alli, tondare ide. thakshana sari maadi. nimma department yenu maaduttide?",Street Lighting,High,Negative,kanglish,BTM Layout,
+766,"Dead animal and rotting garbage near temple in Whitefield. emergency, ivattu ne sari madi.",Waste Collection,High,Negative,english,Whitefield,
+767,"Dmolur nalli footpath odedide, raste asamaana ide. dayavittu gaamna kodi. yaarigu kaalji illa, bejaar aagide.",Roads and Potholes,Medium,Negative,kanglish,Domlur,
+768,"Mane mane kasa sangraha illa ondu vaarada inda namma street nalli, Rajajinagar. dayavittu gamana kodi.",Waste Collection,Medium,Neutral,kanglish,Rajajinagar,ondu vaarada inda
+769,Shivajinagar nalli neeru barthilla. action togolli please.,Water Supply,Medium,Neutral,kanglish,Shivajinagar,
+770,dead animal and rotting garbage near school in malleshwaram immeiate action needed,Waste Collection,High,Negative,english,Malleshwaram,
+771,"please clear the garbage heap at banashankari, it is spreading mosquitoes. this is an emergency! totally unacceptable!",Waste Collection,High,Negative,english,Banashankari,
+772,basavanagudi nalli street lamp aarsi aarsi uriyutte sari maai samaya sikkaaga nodi yaarigu kaalji illa bejaar aagide pls,Street Lighting,Low,Negative,kanglish,Basavanagudi,
+773,hsr layout nalli yaavude suchane illade waetr cut maadidru kaledha vaaradidna. samaya sikkaaga nodi.,Water Supply,Low,Neutral,kanglish,HSR Layout,kaledha vaaradinda
+774,"Ulsoor alli kudiyuva neeru kolachaagide, vaasnae brutte. dayavittu gamana kodi. thanks.",Water Supply,Medium,Neutral,kanglish,Ulsoor,
+775,"shivajinagar nalli street lamp aarsi aarsi uriyutte, sari maadi. samaya sikkaaga nodi. thanks.",Street Lighting,Low,Neutral,kanglish,Shivajinagar,
+776,"Trash piled up beside the drain near scholo, Sadashivanagar. dayavittu gamana kodi.",Waste Collection,Medium,Neutral,english,Sadashivanagar,
+777,bannerghatta rd nalli kasada rasi tegiyiri sanjigau hechchaguttive tmuba hurry illa nodi thanks,Waste Collection,Low,Neutral,kanglish,Bannerghatta Road,
+778,electronic city main road nalli lite fuse aagide ondu vaarada inda. dayavittu bega sai madai. nimma department yenu maaduttide?,Street Lighting,Medium,Negative,kanglish,Electronic City,ondu vaarada inda
+779,"Yelahanka nalli footpath odedide, raste asamaana ide. thakshana sari maadi. tumba kasta aagide.",Roads and Potholes,High,Negative,kanglish,Yelahanka,
+780,"hgaalu kooda stret light uriyuttide jayanagar 4th block nalli, current waste aagtide. action tgolli please. thansk.",Street Lighting,Medium,Neutral,kanglish,Jayanagar 4th Block,
+781,"Streetlight pole near metro station, Rajajinagar keeps flickering and then goes off. Request you to take action.",Street Lighting,Medium,Neutral,english,Rajajinagar,
+782,"Ola kasa mattu odd kasa mix maadtidaare KR Pruam nalli. dayavittu gamana kodi. gamanisi, thaks.",Waste Collection,Medium,Neutral,kanglish,KR Puram,
+783,ulsoor ge kaevri neeru barlilla tanker beku dayavtitu bega sari maadi tumba kopa barutte,Water Supply,Medium,Negative,kanglish,Ulsoor,
+784,"Kengeri ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಮಂಗಳವಾರದಿಂದ ಹಾಗೆಯೇ ಇವೆ. ತಕ್ಷಣ ಸರಿಪಡಿಸಿ.",Roads and Potholes,High,Negative,kannada_script,Kengeri,ಮಂಗಳವಾರದಿಂದ
+785,the tar rd in yelahanka has completely come off please re-asphlt please do d needful this is very frustrating !!,Roads and Potholes,Medium,Negative,english,Yelahanka,
+786,No door to door waste collection in our street at Ulsoor for a week now. Kindly look into it soon. Kindly acknowledge.,Waste Collection,Medium,Neutral,english,Ulsoor,for a week now
+787,please replace d bulb of the stret lite at koramangala it is off for a week now accident can happen any time we are fed up with this negligence,Street Lighting,High,Negative,english,Koramangala,for a week now
+788,"Maratahhalli nalli manhole muchala illa, raste mele gundi. thakshana sari maadi.",Roads and Potholes,High,Negative,kanglish,Marathahalli,
+789,"ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಬೀದಿ ದೀಪಗಳು ಹಾಳಾಗಿವೆ, Shivajinagar ಪ್ರದೇಶದಲ್ಲಿ ಎಲ್ಲೆಡೆ ಕತ್ತಲೆ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಇದು ಸಹಿಸಲು ಆಗುವುದಿಲ್ಲ.",Street Lighting,Medium,Negative,kannada_script,Shivajinagar,
+790,jayanagar 4th block hospital hattira lights elladu off hengasarige suraksha illa dayavittu bega sari maadi dhanyavadagalu,Street Lighting,Medium,Neutral,kanglish,Jayanagar 4th Block,
+791,No street lights in our lane at Hennur. It is pitch dark at nght. Just informing the department.,Street Lighting,Low,Neutral,english,Hennur,
+792,Broken footpath and uneven road near school in Vijayanagar. Kindly look into it soon.,Roads and Potholes,Medium,Neutral,english,Vijayanagar,
+793,Road cut for cale laying was nt restored at Myore Road for the last 3 das. Please check when possible. Totally unacceptable!,Roads and Potholes,Low,Negative,english,Mysore Road,for the last 3 days
+794,"lite cut hogide Banashankari nalli, street light off.",Street Lighting,Medium,Negative,hard,Banashankari,since Sunday
+795,"Namma stret nalli light barthilla, Yelahanka. action togolli please. dhanyavaada.",Street Lighting,Medium,Neutral,kanglish,Yelahanka,
+796,There is a huge pothole on the road near Kalyan Nagar. Accident can happen any time. Shame on the department.,Roads and Potholes,High,Negative,english,Kalyan Nagar,
+797,Electronic City ಹತ್ತಿರ ಪೈಪ್ ಒಡೆದು ನೀರು ಸೋರುತ್ತಿದೆ. ದಯವಿಟ್ಟು ಬೇಗ ಸರಿಪಡಿಸಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Water Supply,Medium,Negative,kannada_script,Electronic City,
+798,Mysore Road ನಲ್ಲಿ ಕಸ ನಿನ್ನೆಯಿಂದ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಗಮನಕ್ಕೆ ತರುತ್ತಿದ್ದೇನೆ. ಧನ್ಯವಾದ.,Waste Collection,Low,Neutral,kannada_script,Mysore Road,ನಿನ್ನೆಯಿಂದ
+799,peenya bus stop hattira lites elladu off hengasarige suraksha illa dayavittu bega sari maadi gaamnisi thanks,Street Lighting,Medium,Neutral,kanglish,Peenya,
+800,"Basavanagudi ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಎರಡು ವಾರಗಳಿಂದ ಹಾಗೆಯೇ ಇವೆ. ಸಮಯ ಸಿಕ್ಕಾಗ ನೋಡಿ. ಧನ್ಯವಾದ.",Roads and Potholes,Low,Neutral,kannada_script,Basavanagudi,ಎರಡು ವಾರಗಳಿಂದ
+801,"cable haakalu raste agediddare, kaledha vaaradnida sari maadilla, kr puram. emergency, ivattu ne sari maadi. tmuba kopa barutte.",Roads and Potholes,High,Negative,kanglish,KR Puram,kaledha vaaradinda
+802,cable haakalu raste agediddare kaledha vaaradidna sari maadilla mg road dayavittu gamana kodi tumba kopa barutte,Roads and Potholes,Medium,Negative,kanglish,MG Road,kaledha vaaradinda
+803,"Main water pipe is leaking near market in Marathahalli, watr is being wasted. dayavittu bega sari maadi.",Water Supply,Medium,Negative,english,Marathahalli,
+804,"Water cut at Koramangala, taps dry since yesterday.",Water Supply,High,Negative,hard,Koramangala,since yesterday
+805,Jayanagar 4th Block ನಲ್ಲಿ ಐದು ದಿನಗಳಿಂದ ನೀರು ಬರುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.,Water Supply,Medium,Neutral,kannada_script,Jayanagar 4th Block,ಐದು ದಿನಗಳಿಂದ
+806,Mysore Road nalli yaavude suchane illade water cut maadidru. action togolli plase. dhanyavaada.,Water Supply,Medium,Neutral,kanglish,Mysore Road,
+807,"HSR Layout alli temple hattira kambada deepa kettide, ella kade kattale. action tooglli pleaes. gamanisi, thanks.",Street Lighting,Medium,Neutral,kanglish,HSR Layout,
+808,"sadashianagar alli kudiyuva neeru kolachaagide, vaasane barutte. samaya sikkaaga nodi.",Water Supply,Low,Neutral,kanglish,Sadashivanagar,
+809,d tar road in ulsoor has completely come off plz re-asphalt action togolli please grateful for your help,Roads and Potholes,Medium,Neutral,english,Ulsoor,
+810,"vjayanagar nalli tar raste poorti hogide, hosa asphalt haaki. dayavittu gamana kodi. dhanyavaada.",Roads and Potholes,Medium,Neutral,kanglish,Vijayanagar,
+811,mane mane kasa sangraha illa tuesday inda namma srteet nalli jayanagar 4th block dayavittu gamana kodi gamanisi thanks,Waste Collection,Medium,Neutral,kanglish,Jayanagar 4th Block,Tuesday inda
+812,"Malleshwaram nalli yaavude suchane illade water cut maadidru Tuesday inda. aksidenta aagbahudu, dayavittu bega maadi. tumba kasta aagide.",Water Supply,High,Negative,kanglish,Malleshwaram,Tuesday inda
+813,"Pipeline burst nar bus stop, Hennur. Road is flooded wid watr. tumba hurry illa, nodi. Totally unacceptable!",Water Supply,Low,Negative,english,Hennur,
+814,"Yelahanka nalli kasada raasi tegiyiri, sanjigalu hechchaguttive. dayavittu bega sari maadi. gamanisi, thakns.",Waste Collection,Medium,Neutral,kanglish,Yelahanka,
+815,"Peenya nalli footpath odedide, rsate asamaana ide. samaya sikkaaga nodi. dhanyavadagalu.",Roads and Potholes,Low,Neutral,kanglish,Peenya,
+816,"market hattira main pipe odediddhe, neeru sorutide, Mysore rd. gamanakke tandidini, nodi. dhanyavaada.",Water Supply,Low,Neutral,kanglish,Mysore Road,
+817,"Speed breaker near metro staton at Mysore Road is broken and dangerou. No rush, but please see to it. Grateful for yur help.",Roads and Potholes,Low,Neutral,english,Mysore Road,
+818,dry waste and wet waste are being mxed by the collectors at hennur. kindly look into it soon. very disappointed.,Waste Collection,Medium,Negative,english,Hennur,
+819,"Water cut in Shivajinagar without any notice. It is unsafe, resolve ASAP. Regards.",Water Supply,High,Neutral,english,Shivajinagar,
+820,Yelahanka ನಲ್ಲಿ ಕಸ ತೆಗೆಯುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Waste Collection,Medium,Negative,kannada_script,Yelahanka,
+821,"MG Road ಹತ್ತಿರ ಕಸದ ರಾಶಿ ಬಿದ್ದಿದೆ, ತುಂಬಾ ವಾಸನೆ. ತುಂಬಾ ತುರ್ತು, ಅಪಘಾತ ಆಗಬಹುದು. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Waste Collection,High,Negative,kannada_script,MG Road,
+822,There is a huge pothol on the rd near Basavanagudi. dayavittu bega sari maadi. Kindly acknowledge.,Roads and Potholes,Medium,Neutral,english,Basavanagudi,
+823,Domlur nalli kasa tegiyalla. action togolli please. dhanyavaada.,Waste Collection,Medium,Neutral,kanglish,Domlur,
+824,"neeru supply illa ninne inda, tanker ge duddu kodtidini, sadashivanagar. thakshana sari maadi. tumba kasta aagide.",Water Supply,High,Negative,kanglish,Sadashivanagar,ninne inda
+825,street lights are not working on d road near bus stop in jp naagr. just informing d department. regrds.,Street Lighting,Low,Neutral,english,JP Nagar,
+826,stret lite is on during the day and wasting power in kr puram this is an emergency! plz,Street Lighting,High,Negative,english,KR Puram,
+827,borewell neeru kalusha aagide kengeri nalli kdiyoke aagalla atcion togolli please nimma department yenu maaduttide? plz,Water Supply,Medium,Negative,kanglish,Kengeri,
+828,The street light near Shivajinagar has not worked. Accident can happen any time. We are fed up with this negligence.,Street Lighting,High,Negative,english,Shivajinagar,
+829,streetlight ple near market domlur keeps flickering and then goes off no rush but please see to it grateful for your help,Street Lighting,Low,Neutral,english,Domlur,
+830,"Plaese replce the bulb of d stret light at Rajajinagar, it is off since last week. makkalige tondare aagutte, urgent. Totally unacceptable!",Street Lighting,High,Negative,english,Rajajinagar,since last week
+831,Broken street lamp hanging dangerously near metro station in Mysore Road. Accident can happen any time. Very disappointed.,Street Lighting,High,Negative,english,Mysore Road,
+832,Tree cut waste and branches left on the road at Whitefield since Sunday.,Waste Collection,Low,Neutral,hard,Whitefield,since Sunday
+833,male neeru gundi nalli tumbide btm layout main road dayavittu bega sari maadi idu sahisoke aagalla,Roads and Potholes,Medium,Negative,kanglish,BTM Layout,
+834,"JP Nagar alli kudiyuva neeru kolachaagide, vaasane barutte. tumba hurry illa, nodi. thanks.",Water Supply,Low,Neutral,kanglish,JP Nagar,
+835,"Namma area Bannerghatta Road nalli neeru baralla, tumba tondare. dayavittu gamana kodi. tumba kopa barutte.",Water Supply,Medium,Negative,kanglish,Bannerghatta Road,
+836,manhole cver missing on the road at basavanagudi open pit gamanakke tandidini nodi this is very frustrating,Roads and Potholes,Low,Negative,english,Basavanagudi,
+837,Contaminated water coming from the borewell tap at Marathahalli. dayavittu gamana kodi. We are fed up with this negligence.,Water Supply,Medium,Negative,english,Marathahalli,
+838,"park hattira kasada dabba tumbi hariyuttide, tumba vaasane, bannerghatta road. tumba hurry illa, nodi. gamanisi, thanks.",Waste Collection,Low,Neutral,kanglish,Bannerghatta Road,
+839,rajajinagar nalli kasada raasi tegiyiri sanjigalu hechchaguttive action togolli please,Waste Collection,Medium,Neutral,kanglish,Rajajinagar,
+840,Water cut in Hebbal without any notice. Immediate action needde. Totlaly unacceptable!,Water Supply,High,Negative,english,Hebbal,
+841,"Light cut hogide Koramangala nalli, street light off.",Street Lighting,Medium,Negative,hard,Koramangala,since yesterday
+842,"Male neeru gundi nalli tumbide, Indiranagar 1st Stage main road. dayavittu gamana kodi. nimma department yenu maaduttide?",Roads and Potholes,Medium,Negative,kanglish,Indiranagar 1st Stage,
+843,"d lamp post outside my house in Mysore rd is dead, whole street is dark. tumba urgent ide, bega action togoli. Thanks in advance.",Street Lighting,High,Neutral,english,Mysore Road,
+844,"potholes filled with rainwater on the main road at shivajinagar. tmba hurry illa, nodi. ...",Roads and Potholes,Low,Neutral,english,Shivajinagar,
+845,overfloiwng dustbin near merto station in kr puram terrible smell children and elderly peple are suffering regards,Waste Collection,High,Neutral,english,KR Puram,
+846,"yelahanka ge kaveri neeru monday inda barlilla, tanker beku. aksidenta aagbahudu, dayavittu bega maadi. idu saisoke aagalla. asap",Water Supply,High,Negative,kanglish,Yelahanka,Monday inda
+847,"stret lites are not working on the road near market in Domlur. emergency, ivattu ne sari maaid.",Street Lighting,High,Negative,english,Domlur,
+848,rajajinagar nalli tar raste poori hogide hosa asphalt hakai tumba hurry illa nodi gamanisi thanks plz,Roads and Potholes,Low,Neutral,kanglish,Rajajinagar,
+849,no door to door waste collection in our street at kengeri since yesterday. just informing the department.,Waste Collection,Low,Neutral,english,Kengeri,since yesterday
+850,"Kasa vilebari vaahana Hebbal ge baralilla kaledha vaaradinda, kasa raasi aagide. tumba urgent ide, bega action togoli. idu sahisoke aagalla.",Waste Collection,High,Negative,kanglish,Hebbal,kaledha vaaradinda
+851,"Tap nalli neeru pressure tubma kadime ide, Hebbal. gamanakke tandidini, nodi. dhanyavaada.",Water Supply,Low,Neutral,kanglish,Hebbal,
+852,"Streetlight pole near hospital, JP Nagar keeps flickering and then goes off. Request you to take action. Very disappointed.",Street Lighting,Medium,Negative,english,JP Nagar,
+853,metro station hatitra main pie odediddhe neeru sorutide banashankari tmuba urgent ide bega action togoli,Water Supply,High,Negative,kanglish,Banashankari,
+854,Broken street lamp hanging dangerously near temple in Electronic City. Kindly look into it soon. Thanks in advance.,Street Lighting,Medium,Neutral,english,Electronic City,
+855,"Overflowing dustbin near hospital in Hennur, terrible smell. Please resolve this at the earliest. Thank you.",Waste Collection,Medium,Neutral,english,Hennur,
+856,water is not coming in the taps at peenya frm friday kindly look into this when you get time very disappointed ...,Water Supply,Low,Negative,english,Peenya,from Friday
+857,"Drinking watr is dirty and smelly in Vijayanagar, tap watr is brownish. samaya sikkaaga nodi. Thanks in advanec.",Water Supply,Low,Neutral,english,Vijayanagar,
+858,the lite on the main rd at domlur is fused for the last 3 day plz resolve this at the earliest thanks in advance,Street Lighting,Medium,Neutral,english,Domlur,for the last 3 days
+859,"Please replace the bulb of the stret light at Bannerghatta rd, it is off for the last 3 days. Please reoslve this at the earliest. Kidly acknowedge.",Street Lighting,Medium,Neutral,english,Bannerghatta Road,for the last 3 days
+860,"Streetlight pole near hospital, Malleshwaram keeps flickering and then goes off. Very urgnt, kindly act today. We are fed up with this negligence.",Street Lighting,High,Negative,english,Malleshwaram,
+861,there is no watr suply in mysore rd. kindly look into this when you get time. thank you.,Water Supply,Low,Neutral,english,Mysore Road,
+862,No door to door waste collection in our street at Banashankari since Monday. dayavittu gamana kodi. We are fed up with this negligence.,Waste Collection,Medium,Negative,english,Banashankari,since Monday
+863,"Hennur ನಲ್ಲಿ ರಸ್ತೆ ಹಾಳಾಗಿದೆ, ಗುಂಡಿಗಳು ಐದು ದಿನಗಳಿಂದ ಹಾಗೆಯೇ ಇವೆ. ಮಕ್ಕಳಿಗೆ ತೊಂದರೆ, ಬೇಗ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ತುಂಬಾ ಕಷ್ಟವಾಗಿದೆ.",Roads and Potholes,High,Negative,kannada_script,Hennur,ಐದು ದಿನಗಳಿಂದ
+864,"Ulsoor nalli kasa sudtidare, tumba hogeyide. action togolli please. dhanyavaada.",Waste Collection,Medium,Neutral,kanglish,Ulsoor,
+865,HSR Layout ರಸ್ತೆಯಲ್ಲಿ ಮ್ಯಾನ್‌ಹೋಲ್ ಮುಚ್ಚಳ ಇಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಯಾರಿಗೂ ಕಾಳಜಿ ಇಲ್ಲ.,Roads and Potholes,Medium,Negative,kannada_script,HSR Layout,
+866,hsr layout ge kaevri neeru 5 dinagalinda barillla tanker beku aksidenta aagbahudu dayavittu bega maadi idu sahisoke aagalla,Water Supply,High,Negative,kanglish,HSR Layout,5 dinagalinda
+867,"ratse pakka kasa haakidare park hattira shivajinagar, nayigalu ellaa kade. dayavittu gaamna kodi.",Waste Collection,Medium,Negative,kanglish,Shivajinagar,
+868,"hospital hattira speed breaker odedide, apaayakaari, Kalyan Nagar. dayavittu bega sari maadi. dhanyavaada.",Roads and Potholes,Medium,Neutral,kanglish,Kalyan Nagar,
+869,garbage is burning in the open at jp nagar lots of smoke it is unsafe resolve asap worst service nobody cares,Waste Collection,High,Negative,english,JP Nagar,
+870,Mysore Road ನಲ್ಲಿ ನೀರು ಬರುತ್ತಿಲ್ಲ. ಕ್ರಮ ಕೈಗೊಳ್ಳಿ. ಧನ್ಯವಾದಗಳು.,Water Supply,Medium,Neutral,kannada_script,Mysore Road,
+871,"Ola kasa mattu odd kasa mix maadtidaare HSR Layout nalli. action togolli plz. yaarigu kaalji illa, bejaar aagide.",Waste Collection,Medium,Negative,kanglish,HSR Layout,
+872,"Yelahanka nali street lamp aarsi aarsi uriyutte, sari maadi. action togolli please. gamanisi, thanks.",Street Lighting,Medium,Neutral,kanglish,Yelahanka,

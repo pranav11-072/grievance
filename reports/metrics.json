@@ -1,0 +1,133 @@
+{
+  "n_total": 872,
+  "n_train": 697,
+  "n_test": 175,
+  "n_handwritten": 36,
+  "category_model_comparison": {
+    "Rule-based keywords": {
+      "split": {
+        "accuracy": 0.9257,
+        "precision": 0.9334,
+        "recall": 0.9248,
+        "f1": 0.9238
+      },
+      "handwritten": {
+        "accuracy": 0.9167,
+        "precision": 0.9318,
+        "recall": 0.9167,
+        "f1": 0.9131
+      }
+    },
+    "Naive Bayes": {
+      "split": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "handwritten": {
+        "accuracy": 0.8889,
+        "precision": 0.9068,
+        "recall": 0.8917,
+        "f1": 0.8842
+      }
+    },
+    "Linear SVM": {
+      "split": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "handwritten": {
+        "accuracy": 0.9167,
+        "precision": 0.9245,
+        "recall": 0.9167,
+        "f1": 0.9102
+      }
+    },
+    "Logistic Regression": {
+      "split": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "handwritten": {
+        "accuracy": 0.8889,
+        "precision": 0.8865,
+        "recall": 0.8917,
+        "f1": 0.8846
+      }
+    }
+  },
+  "final_split": {
+    "category": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "urgency": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "sentiment": {
+      "accuracy": 0.9086,
+      "precision": 0.9086,
+      "recall": 0.9087,
+      "f1": 0.9086
+    }
+  },
+  "final_handwritten": {
+    "category": {
+      "accuracy": 0.8889,
+      "precision": 0.8865,
+      "recall": 0.8917,
+      "f1": 0.8846
+    },
+    "urgency": {
+      "accuracy": 0.5278,
+      "precision": 0.6538,
+      "recall": 0.5222,
+      "f1": 0.5021
+    },
+    "sentiment": {
+      "accuracy": 0.6667,
+      "precision": 0.6073,
+      "recall": 0.6073,
+      "f1": 0.6073
+    }
+  },
+  "category_accuracy_by_style": {
+    "english": {
+      "n": 69,
+      "accuracy": 1.0
+    },
+    "hard": {
+      "n": 9,
+      "accuracy": 1.0
+    },
+    "kanglish": {
+      "n": 81,
+      "accuracy": 1.0
+    },
+    "kannada_script": {
+      "n": 16,
+      "accuracy": 1.0
+    }
+  },
+  "human_review": {
+    "threshold": 0.55,
+    "handwritten_flagged": 3,
+    "errors_caught_by_flag": 3,
+    "total_errors": 4,
+    "accuracy_on_auto_handled": 0.9697
+  },
+  "cv5_category_macro_f1": {
+    "mean": 0.9989,
+    "std": 0.0023
+  }
+}
