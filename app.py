@@ -90,7 +90,9 @@ def init_db():
 
 
 def process(complaint_text):
-    complaint_text = (complaint_text or "").strip()
+    if not isinstance(complaint_text, str):
+        raise ValueError("Complaint text must be a string.")
+    complaint_text = complaint_text.strip()
     if not complaint_text:
         raise ValueError("Complaint text is empty.")
     if len(complaint_text) > MAX_LEN:
