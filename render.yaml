@@ -7,6 +7,9 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 120 --access-logfile - --error-logfile -
     healthCheckPath: /health
+    envVars:
+      - key: DATA_DIR
+        value: /var/data
     disk:
       name: grievance-data
       mountPath: /var/data
